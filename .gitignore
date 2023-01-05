@@ -1,0 +1,12 @@
+*.exe
+__pycache__/
+*.ipynb
+*.zip
+*.xlsx
+*.csb
+*temp.json
+*.tar.gz
+# capterra/env/
+# amazon_scraper/selenium/env/
+env/
+node_modules/

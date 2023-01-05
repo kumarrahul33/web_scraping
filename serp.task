@@ -1,0 +1,13 @@
+can't directly search on zoominfo (blocks implemented)
+ thus, planning to search via serp
+  search query: <company-domain> revenue "zoominfo"
+  check if the serp response contains the required information. if it does, get it from there itself
+ required information
+  hq
+  sic code
+  naics code
+  revenue
+  website
+ demo: 
+  https://www.zoominfo.com/c/broad-horizon/357240237
+  this was the first query result on serp with the query: broadhorizon.com revenue "zoominfo"
