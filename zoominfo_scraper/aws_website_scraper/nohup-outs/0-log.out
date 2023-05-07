@@ -1,0 +1,7 @@
+{'company_name': 'The Gift Voucher Shop', 'website': 'www.giftvouchershop.co.uk', 'headquarters': 'PO Box 52796, London, Greater London, EC1P 1ZA, United Kingdom', 'SIC Code': '59,594', 'NAICS Code': '45,453', 'revenue': '$7M', 'Number of Employees': '26', 'LinkedIn url': 'https://www.linkedin.com/company/one4all-rewards'}
+{'company_name': 'NotAvailable', 'website': 'NotAvailable', 'headquarters': 'NotAvailable', 'SIC Code': 'NotAvailable', 'NAICS Code': 'NotAvailable', 'revenue': 'NotAvailable', 'Number of Employees': 'NotAvailable', 'LinkedIn url': 'NotAvailable'}
+{'company_name': 'Serving Seniors', 'website': 'www.cnyservingseniors.com', 'headquarters': '44 Schilly Rd, Central Square, New York, 13036, United States', 'SIC Code': '80,808', 'NAICS Code': '62,621', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': '!not-found'}
+{'company_name': 'Ewebjelly', 'website': 'www.ewebjelly.com', 'headquarters': '8275 S Eastern Ave 200, Las Vegas, Nevada, 89123, United States', 'SIC Code': '73,737', 'NAICS Code': '54,541', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'https://www.linkedin.com/company/ewebjelly'}
+local variable 'linkedIn' referenced before assignment
+https://www.zoominfo.com/c/j-lowe-realtors-inc/354402614
+{'company_name': '!unknown-error', 'website': '!unknown-error', 'headquarters': '!unknown-error', 'SIC Code': '!unknown-error', 'NAICS Code': '!unknown-error', 'revenue': '!unknown-error', 'Number of Employees': '!unknown-error', 'LinkedIn url': '!unknown-error'}

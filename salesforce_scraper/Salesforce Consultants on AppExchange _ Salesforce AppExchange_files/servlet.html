@@ -1,0 +1,257 @@
+
+<!-- saved from url=(0113)https://trailblazer.me/servlet/servlet.loginwidgetcontroller?type=javascript_xauth&brand=English16%3A54%3A08.613Z -->
+<html data-darkreader-mode="dynamic" data-darkreader-scheme="dark"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style class="darkreader darkreader--fallback" media="screen"></style><style class="darkreader darkreader--text" media="screen"></style><style class="darkreader darkreader--invert" media="screen">.jfk-bubble.gtx-bubble, .captcheck_answer_label > input + img, span#closed_text > img[src^="https://www.gstatic.com/images/branding/googlelogo"], span[data-href^="https://www.hcaptcha.com/"] > #icon, #bit-notification-bar-iframe, ::-webkit-calendar-picker-indicator {
+    filter: invert(100%) hue-rotate(180deg) contrast(90%) !important;
+}</style><style class="darkreader darkreader--inline" media="screen">[data-darkreader-inline-bgcolor] {
+  background-color: var(--darkreader-inline-bgcolor) !important;
+}
+[data-darkreader-inline-bgimage] {
+  background-image: var(--darkreader-inline-bgimage) !important;
+}
+[data-darkreader-inline-border] {
+  border-color: var(--darkreader-inline-border) !important;
+}
+[data-darkreader-inline-border-bottom] {
+  border-bottom-color: var(--darkreader-inline-border-bottom) !important;
+}
+[data-darkreader-inline-border-left] {
+  border-left-color: var(--darkreader-inline-border-left) !important;
+}
+[data-darkreader-inline-border-right] {
+  border-right-color: var(--darkreader-inline-border-right) !important;
+}
+[data-darkreader-inline-border-top] {
+  border-top-color: var(--darkreader-inline-border-top) !important;
+}
+[data-darkreader-inline-boxshadow] {
+  box-shadow: var(--darkreader-inline-boxshadow) !important;
+}
+[data-darkreader-inline-color] {
+  color: var(--darkreader-inline-color) !important;
+}
+[data-darkreader-inline-fill] {
+  fill: var(--darkreader-inline-fill) !important;
+}
+[data-darkreader-inline-stroke] {
+  stroke: var(--darkreader-inline-stroke) !important;
+}
+[data-darkreader-inline-outline] {
+  outline-color: var(--darkreader-inline-outline) !important;
+}
+[data-darkreader-inline-stopcolor] {
+  stop-color: var(--darkreader-inline-stopcolor) !important;
+}</style><style class="darkreader darkreader--variables" media="screen">:root {
+   --darkreader-neutral-background: #131516;
+   --darkreader-neutral-text: #d8d4cf;
+   --darkreader-selection-background: #004daa;
+   --darkreader-selection-text: #e8e6e3;
+}</style><style class="darkreader darkreader--root-vars" media="screen"></style><style class="darkreader darkreader--user-agent" media="screen">html {
+    color-scheme: dark !important;
+}
+html, body {
+    border-color: #736b5e;
+    color: #e8e6e3;
+}
+a {
+    color: #3391ff;
+}
+table {
+    border-color: #545b5e;
+}
+::placeholder {
+    color: #b2aba1;
+}
+input:-webkit-autofill,
+textarea:-webkit-autofill,
+select:-webkit-autofill {
+    background-color: #404400 !important;
+    color: #e8e6e3 !important;
+}
+::-webkit-scrollbar {
+    background-color: #202324;
+    color: #aba499;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #454a4d;
+}
+::-webkit-scrollbar-thumb:hover {
+    background-color: #575e62;
+}
+::-webkit-scrollbar-thumb:active {
+    background-color: #484e51;
+}
+::-webkit-scrollbar-corner {
+    background-color: #181a1b;
+}
+::selection {
+    background-color: #004daa !important;
+    color: #e8e6e3 !important;
+}
+::-moz-selection {
+    background-color: #004daa !important;
+    color: #e8e6e3 !important;
+}</style><script>/*
+    Copyright 2010 Meebo Inc.
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+        http://www.apache.org/licenses/LICENSE-2.0
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+*/
+
+/**
+    History
+    2010-04-27
+    Overcommenting
+    -jianshen
+    2010-04-16
+    Added in checks for disabled and blocked tokens
+    -jianshen
+
+    2010-03-26
+    First version of xauth server code
+    -Jian Shen, Meebo
+**/
+!function(){var e=window;if(e.top!==e&&e.postMessage&&function(e){try{var t=window[e],i="__storage_test__";return t.setItem(i,i),t.removeItem(i),!0}catch(e){return e instanceof DOMException&&(22===e.code||1014===e.code||"QuotaExceededError"===e.name||"NS_ERROR_DOM_QUOTA_REACHED"===e.name)&&0!==t.length}}("localStorage")&&e.JSON){var t=e.localStorage,i=null,n=document.cookie.match(/(?:^|;)\s*widgetSession=(\d+)(?:;|$)/);if(n&&n.length&&(i=n[1]),!i){i=(new Date).getTime().toString();var r=navigator.userAgent.match(/Chrom(e|ium)\/([0-9]+)\./),o=r?parseInt(r[2],10):0,a=navigator.userAgent.match(/Firefox\/([0-9]+)\./),s=a?parseInt(a[1]):0,d=o>=77||s>=70;document.cookie="widgetSession="+i+(d?"; secure; samesite=None;":"; ")}var c={"sfdcxauth::extend":function(e,n){if(g("entering xauth extend function"),!function(e,t){if(!e.uid||!p(e.uid,"005")||e.uid.length<15)return v(e,"No uid",t),!1;if(!e.oid||!p(e.oid,"00D")||e.oid.length<15)return v(e,"No oid",t),!1;if(!e.identity)return v(e,"No identity",t),!1;if(!e.identity.instance)return v(e,"No instance URL",t),!1;var i=e.identity.instance;if(!(i&&i.length>6))return v(e,"Short instance URL",t),!1;var n=i.substring(0,6);if("http:/"!==n&&"https:"!==n)return v(e,"Bad instance URL",t),!1;if(!e.identityServiceResponse)return v(e,"Invalid identityServiceResponse",t),!1;if("number"!=typeof e.expire||Math.floor(e.expire)!==e.expire)return v(e,"Invalid Expiration",t),!1;if(!e.allowedDomains||!e.allowedDomains.length)return v(e,"No allowedDomains List Specified",t),!1;return!0}(n,e))return null;n.uid=n.uid.substring(0,15),n.oid=n.oid.substring(0,15);var r=n.oid+n.uid,o=t.getItem(r),a=o?JSON.parse(o):{identity:n.identity,expire:n.expire,active:n.active,lastused:(new Date).getTime(),mydomain:n.mydomain,community:n.community,activeonly:n.activeonly,retainhint:n.retainhint,allowedDomains:n.allowedDomains,identityServiceResponse:n.identityServiceResponse};return o&&(a.allowedDomains=n.allowedDomains,a.identityServiceResponse=n.identityServiceResponse),!0===n.widgetSession&&(a.widgetSession=i),t.setItem(r,JSON.stringify(a)),{cmd:n.cmd,id:n.id}},"sfdcxauth::retrieve":function(e,t){g("entering xauth retrieve function");var i=l(t,e);return!1===(1===Object.keys(i).length)&&(i={}),u(i),{cmd:t.cmd,id:t.id,identityServiceResponses:i}},"sfdcxauth::alive":function(e,t){m(t.id,"entering xauth alive function");var i=l(t,e),n=1===Object.keys(i).length;return u(i),{cmd:t.cmd,id:t.id,alive:n}},"sfdcxauth::expire":function(e,i){return g("entering xauth expire function"),t.removeItem(i.storageKey),{cmd:i.cmd,id:i.id}}};e.addEventListener?e.addEventListener("message",h,!1):e.attachEvent&&e.attachEvent("onmessage",h),e.parent.postMessage(JSON.stringify({cmd:"sfdcxauth::ready"}),"*")}function u(e){if(!(Object.keys(e).length<=1))for(var i in e)t.removeItem(i)}function l(e,i){var n={};if(e.retrieve&&e.retrieve.length)for(var r=0;r<e.retrieve.length;r+=1){var o=e.retrieve[r],a=t.getItem(o);f(o,a?JSON.parse(a):null,i,n)}else for(var s=t.length-1;s>=0;s-=1){var d=t.key(s);if("00D"===d.substring(0,3)&&"005"===d.substring(15,18)){var c=t.getItem(d);f(d,c?JSON.parse(c):null,i,n)}}return n}function f(e,n,r,o){if(n&&!n.block&&(function(e,t){if(!e.allowedDomains)return!1;for(var i=0;i<e.allowedDomains.length;i+=1){var n=e.allowedDomains[i];if(n===t)return!0;if(0===n.indexOf("*.")){var r=n.substring(2,n.length);if(a=r,-1!==(o=t).indexOf(a,o.length-a.length))return!0}}var o,a;return!1}(n,r)&&n.identityServiceResponse)){if(function(e,n){if(n.widgetSession&&n.widgetSession!==i)return t.removeItem(e),!0;return!1}(e,n))return;o[e]={identityServiceResponse:n.identityServiceResponse}}}function g(t){e.console&&e.console.log&&e.console.log(t)}function m(e,t){e&&e%100==0&&g(t)}function v(t,i,n){t&&"number"==typeof t.id&&e.console&&e.console.log&&e.console.log(t.cmd+" Error: "+i)}function p(e,t,i){return String.prototype.startsWith?e.startsWith(t):(i=i||0,e.indexOf(t,i)===i)}function h(i){var n;if("string"==typeof i.data&&(n=JSON.parse(i.data)),n&&n.cmd&&"string"==typeof n.cmd){var r,o,a=i.origin.split("://")[1].split("/")[0];if(n&&"object"==typeof n&&n.cmd&&void 0!==n.id&&"1"!==t.getItem("disabled.xauth.org"))"sfdcxauth::alive"===n.cmd&&m(n.id,i.data),c[n.cmd]&&(r=c[n.cmd](a,n),o=i.origin,r&&"number"==typeof r.id&&e.parent.postMessage(JSON.stringify(r),o))}}}();</script><meta name="darkreader" content="886c1ea4c53043f99107bd26ba42549a"><style class="darkreader darkreader--override" media="screen">.vimvixen-hint {
+    background-color: #7b5300 !important;
+    border-color: #d8b013 !important;
+    color: #f3e8c8 !important;
+}
+::placeholder {
+    opacity: 0.5 !important;
+}
+#edge-translate-panel-body,
+.MuiTypography-body1,
+.nfe-quote-text {
+    color: var(--darkreader-neutral-text) !important;
+}
+gr-main-header {
+    background-color: #0f3a48 !important;
+}
+.tou-z65h9k,
+.tou-mignzq,
+.tou-1b6i2ox,
+.tou-lnqlqk {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+.tou-75mvi {
+    background-color: #032029 !important;
+}
+.tou-ta9e87,
+.tou-1w3fhi0,
+.tou-1b8t2us,
+.tou-py7lfi,
+.tou-1lpmd9d,
+.tou-1frrtv8,
+.tou-17ezmgn {
+    background-color: #0a0a0a !important;
+}
+.tou-uknfeu {
+    background-color: #231603 !important;
+}
+.tou-6i3zyv {
+    background-color: #19576c !important;
+}</style></head><body data-new-gr-c-s-check-loaded="14.1029.0" data-gr-ext-installed=""></body><grammarly-desktop-integration data-grammarly-shadow-root="true"><template shadowrootmode="open"><style class="darkreader darkreader--inline" media="screen">[data-darkreader-inline-bgcolor] {
+  background-color: var(--darkreader-inline-bgcolor) !important;
+}
+[data-darkreader-inline-bgimage] {
+  background-image: var(--darkreader-inline-bgimage) !important;
+}
+[data-darkreader-inline-border] {
+  border-color: var(--darkreader-inline-border) !important;
+}
+[data-darkreader-inline-border-bottom] {
+  border-bottom-color: var(--darkreader-inline-border-bottom) !important;
+}
+[data-darkreader-inline-border-left] {
+  border-left-color: var(--darkreader-inline-border-left) !important;
+}
+[data-darkreader-inline-border-right] {
+  border-right-color: var(--darkreader-inline-border-right) !important;
+}
+[data-darkreader-inline-border-top] {
+  border-top-color: var(--darkreader-inline-border-top) !important;
+}
+[data-darkreader-inline-boxshadow] {
+  box-shadow: var(--darkreader-inline-boxshadow) !important;
+}
+[data-darkreader-inline-color] {
+  color: var(--darkreader-inline-color) !important;
+}
+[data-darkreader-inline-fill] {
+  fill: var(--darkreader-inline-fill) !important;
+}
+[data-darkreader-inline-stroke] {
+  stroke: var(--darkreader-inline-stroke) !important;
+}
+[data-darkreader-inline-outline] {
+  outline-color: var(--darkreader-inline-outline) !important;
+}
+[data-darkreader-inline-stopcolor] {
+  stop-color: var(--darkreader-inline-stopcolor) !important;
+}</style><style class="darkreader darkreader--override" media="screen">.vimvixen-hint {
+    background-color: #7b5300 !important;
+    border-color: #d8b013 !important;
+    color: #f3e8c8 !important;
+}
+::placeholder {
+    opacity: 0.5 !important;
+}
+#edge-translate-panel-body,
+.MuiTypography-body1,
+.nfe-quote-text {
+    color: var(--darkreader-neutral-text) !important;
+}
+gr-main-header {
+    background-color: #0f3a48 !important;
+}
+.tou-z65h9k,
+.tou-mignzq,
+.tou-1b6i2ox,
+.tou-lnqlqk {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+.tou-75mvi {
+    background-color: #032029 !important;
+}
+.tou-ta9e87,
+.tou-1w3fhi0,
+.tou-1b8t2us,
+.tou-py7lfi,
+.tou-1lpmd9d,
+.tou-1frrtv8,
+.tou-17ezmgn {
+    background-color: #0a0a0a !important;
+}
+.tou-uknfeu {
+    background-color: #231603 !important;
+}
+.tou-6i3zyv {
+    background-color: #19576c !important;
+}</style><style class="darkreader darkreader--invert" media="screen">.jfk-bubble.gtx-bubble, .captcheck_answer_label > input + img, span#closed_text > img[src^="https://www.gstatic.com/images/branding/googlelogo"], span[data-href^="https://www.hcaptcha.com/"] > #icon, #bit-notification-bar-iframe, ::-webkit-calendar-picker-indicator {
+    filter: invert(100%) hue-rotate(180deg) contrast(90%) !important;
+}</style><style>
+  div.grammarly-desktop-integration {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select:none;
+    user-select:none;
+  }
+
+  div.grammarly-desktop-integration:before {
+    content: attr(data-content);
+  }
+</style><style class="darkreader darkreader--sync" media="screen"></style><div aria-label="grammarly-integration" role="group" tabindex="-1" class="grammarly-desktop-integration" data-content="{&quot;mode&quot;:&quot;full&quot;,&quot;isActive&quot;:true,&quot;isUserDisabled&quot;:false}"></div></template></grammarly-desktop-integration></html>

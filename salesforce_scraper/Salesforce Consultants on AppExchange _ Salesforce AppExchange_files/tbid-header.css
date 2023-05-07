@@ -1,0 +1,161 @@
+button.tbid-button{
+    line-height: 1.25!important;
+    font-weight: bold;
+    white-space: nowrap!important;
+    font-size: 0.8125rem;
+    padding: 0.5rem 1rem!important;
+}
+
+button.tbid-button-signup {
+    box-shadow: 0 1px 0 #004786;
+}
+
+button.tbid-button-login {
+    margin-left: 0.25rem;
+    box-shadow: 0 1px 0 #e2e2e2;
+}
+
+.tbid-anchor:hover {
+    text-decoration: none!important;
+}
+
+.tbid-header-display {
+    display: flex;
+    align-items: center;
+}
+
+.tbid-avatar{
+    border: 4px solid #ffffff!important;
+    border-radius: 50%;
+    position: relative;
+    top: 22px;
+    left: calc(50% - 36px);
+    background-color: #ffffff;
+    width: 72px!important;
+    max-height: 4.5rem;
+}
+
+.tbid-header-menu{
+    width: 16rem;
+    padding: 0!important;
+    margin-top: .25rem!important;
+    overflow: hidden;
+    border: none!important;
+    box-shadow: 0 5px 10px 0 rgba(0,0,0,.1)!important;
+}
+
+.tbid-header-username {
+    font-size: 0.8125rem;
+    font-weight: bold!important;
+    max-width: 10rem;
+    color: #1e1e1e;
+}
+
+.tbid-header-avatar {
+    width: 2.5rem!important;
+    height: 2.5rem!important;
+    border: none!important;
+}
+
+.tbid-user-name{
+    font-weight: normal!important;
+    line-height: 1.3!important;
+}
+
+.tbid-menu-item{
+    font-size: 16px!important;
+    line-height: 1.7;
+}
+
+.tbid-menu-item:focus {
+    outline: 0;
+}
+
+.tbid-avatar-bg{
+    margin-bottom: 28px;
+    height: 70px;
+    background-size: 100% 100%;
+    position: relative;
+}
+
+.tbid-logout {
+    border-top: 1px solid #e2e2e2;
+}
+
+.tds-app-launcher {
+    width: 22rem;
+    max-width: 22rem!important;
+    border: none!important;
+    box-shadow: 0 5px 10px 0 rgba(0,0,0,.1)!important;
+    top: 30px!important;
+}
+
+.tds-app-launcher.is-tbc {
+    top: 36px!important;
+}
+
+.tds-app-launcher__item {
+    border-radius: 3px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: transparent;
+    color: rgb(88, 88, 88)!important;
+    font-size: 0.8125rem;
+}
+
+.tds-app-launcher__item:hover, .tds-app-launcher__item:focus {
+    border-color: rgb(226, 226, 226);
+    transition: border-color 0.2s ease;
+    color: rgb(88, 88, 88)!important;
+    text-decoration: none!important;
+}
+
+.tds-app-launcher__image {
+    max-width: 2.5rem!important;
+}
+
+.tbid-app-img {
+    width: 24px!important;
+    height: 24px!important;
+    border: 1px solid #ffffff;
+    fill: #6b6d70!important;
+}
+
+.app-launcher-button:hover .tbid-app-img, .app-launcher-button:focus .tbid-app-img {
+    fill: #0070d2!important;
+}
+
+@media (max-width: 767px) {
+    .tbid-header-username.mobile-hide {
+        display: none!important;
+    }
+    .tbid-header-avatar {
+        width: 2rem!important;
+        height: 2rem!important;
+    }
+    .tbid-login-menu.is-tbc {
+        margin-top: 2px!important;
+        margin-right: 1.125rem!important;
+    }
+    .tbid-login-menu.is-tbc.mobile-display {
+        margin-top: 2px!important;
+        margin-right: 0!important;
+    }
+    .tds-app-launcher {
+        right: 0.75rem!important;
+        top: 2.675rem!important;
+        position: fixed!important;
+    }
+    .tds-app-launcher.is-tbc {
+        right: 2.75rem!important;
+        top: 2.75rem!important;
+    }
+    .appx-header-with-store-switcher .tds-app-launcher {
+        top: 4.625rem!important;
+    }
+}
+@media (max-width: 400px) {
+    .tds-app-launcher.is-tbc {
+        left: 0.25rem;
+    }
+}

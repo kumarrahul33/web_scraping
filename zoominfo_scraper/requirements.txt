@@ -1,0 +1,5 @@
+beautifulsoup4==4.11.1
+pandas==1.5.0
+requests==2.25.1
+six==1.16.0
+stem==1.8.1

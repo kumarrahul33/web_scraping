@@ -1,0 +1,787 @@
+{'company_name_zoominfo': 'City Carting', 'website': 'www.citycarting.net', 'headquarters': '8 Viaduct Rd, Stamford, Connecticut, 06907, United States', 'SIC Code': '42,421', 'NAICS Code': '56,562', 'revenue': '<$5M', 'Number of Employees': '61', 'LinkedIn url': 'http://www.linkedin.com/company/city-carting-co'}
+{'company_name_zoominfo': 'Custom Ecology', 'website': 'www.customecology.com', 'headquarters': '6375 Discovery Blvd, Mableton, Georgia, 30126, United States', 'SIC Code': '42,421', 'NAICS Code': '56,562', 'revenue': '$16.2M', 'Number of Employees': '34', 'LinkedIn url': 'http://www.linkedin.com/company/cei-environmental-services'}
+{'company_name_zoominfo': 'ELG Haniel Metals', 'website': 'www.elg.de', 'headquarters': '16 Kremerskamp, Duisburg, Nordrhein Westfalen, 47138, Germany', 'SIC Code': '50,505', 'NAICS Code': '81,812', 'revenue': '$240.9M', 'Number of Employees': '540', 'LinkedIn url': 'http://www.linkedin.com/company/elg-metals-inc.'}
+{'company_name_zoominfo': '!not-found', 'website': 'Infrastructure Technology Services', 'headquarters': '!not-found', 'SIC Code': '!not-found', 'NAICS Code': '!not-found', 'revenue': '!not-found', 'Number of Employees': '!not-found', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'Layne', 'website': 'www.layneb.com', 'headquarters': 'United States', 'SIC Code': '48,72', 'NAICS Code': '51,517', 'revenue': '$5.3M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/layne.'}
+{'company_name_zoominfo': 'Meridian Waste', 'website': 'www.meridianwaste.com', 'headquarters': '5925 Carnegie Blvd Ste 370, Charlotte, North Carolina, 28209, United S...', 'SIC Code': '49,42', 'NAICS Code': '22,221', 'revenue': '$68M', 'Number of Employees': '124', 'LinkedIn url': 'http://www.linkedin.com/company/container-first-services-llc'}
+{'company_name_zoominfo': 'Plastic2Oil', 'website': 'www.plastic2oil.com', 'headquarters': '20 Iroquois St, Niagara Falls, New York, 14303, United States', 'SIC Code': '29,291', 'NAICS Code': '32,324', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/jbi-inc.'}
+{'company_name_zoominfo': 'Cleaning Guys', 'website': 'www.cleaningguys.com', 'headquarters': '5255 Teague Rd, Fort Worth, Texas, 76140, United States', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '$5.7M', 'Number of Employees': '29', 'LinkedIn url': 'http://www.linkedin.com/company/cleaning-guys-llc'}
+{'company_name_zoominfo': 'JDog Junk Removal & Hauling', 'website': 'www.jdogjunkremoval.com', 'headquarters': '1021 Old Cassatt Rd Ste 100, Berwyn, Pennsylvania, 19312, United State...', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '$6.5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/j-dog-junk-removal'}
+{'company_name_zoominfo': 'UCC Environmental', 'website': 'www.uccenvironmental.com', 'headquarters': '2100 Norman Dr, Waukegan, Illinois, 60085, United States', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '$121.2M', 'Number of Employees': '400', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'AqueoUS Vets', 'website': 'www.aqueousvets.com', 'headquarters': '288 Jasmine Way, Danville, California, 94506, United States', 'SIC Code': '35,358', 'NAICS Code': '33,333', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/aqueous-vets'}
+{'company_name_zoominfo': 'Rational Energies', 'website': 'www.rationalresource.com', 'headquarters': '14920 27th Ave N, Plymouth, Minnesota, 55447, United States', 'SIC Code': '13,131', 'NAICS Code': '21,211', 'revenue': '$9.1M', 'Number of Employees': '27', 'LinkedIn url': 'http://www.linkedin.com/company/rational-energies-llc'}
+renewing ip
+429
+2001:67c:6ec:203:192:42:116:181
+{'company_name_zoominfo': 'Vidler Water Resouces', 'website': 'www.vidlerwater.com', 'headquarters': '3480 Gs Richards Blvd Ste 101, Carson City, Nevada, 89703, United Stat...', 'SIC Code': '49,497', 'NAICS Code': '22,221', 'revenue': '$27.2M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/vidler-water-company-inc.'}
+{'company_name_zoominfo': 'HydroNovation', 'website': 'www.hydronovation.com', 'headquarters': '20 Centerpointe Dr Ste 110, La Palma, California, 90623, United States', 'SIC Code': '35,358', 'NAICS Code': '33,333', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/801848'}
+{'company_name_zoominfo': 'Agua', 'website': 'www.aguainc.com', 'headquarters': '1035 Pearl St Ste 423, Boulder, Colorado, 80302, United States', 'SIC Code': '35,358', 'NAICS Code': '33,333', 'revenue': '<$5M', 'Number of Employees': '29', 'LinkedIn url': 'http://www.linkedin.com/company/agua-inc'}
+{'company_name_zoominfo': 'ReCommunity Recycling', 'website': 'www.recommunity.com', 'headquarters': '3800 N Central Ave Ste 460, Phoenix, Arizona, 85012, United States', 'SIC Code': '49,495', 'NAICS Code': '22,221', 'revenue': '$9.8M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/recommunity'}
+{'company_name_zoominfo': 'arensis group', 'website': 'www.arensis.com', 'headquarters': '2543 Liliha St, Honolulu, Hawaii, 96817, United States', 'SIC Code': '87,873', 'NAICS Code': '54,541', 'revenue': '<$5M', 'Number of Employees': '25', 'LinkedIn url': 'http://www.linkedin.com/company/arensisgroup'}
+{'company_name_zoominfo': 'Yosemite Clean Energy', 'website': 'www.yosemiteclean.com', 'headquarters': '5008 Hwy 140 Ste F, Mariposa, California, 95338, United States', 'SIC Code': '49,491', 'NAICS Code': '22,221', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/yosemite-clean'}
+{'company_name_zoominfo': 'PTG Water & Energy', 'website': 'www.ptgwe.com', 'headquarters': '2306 Merced St, San Leandro, California, 94577, United States', 'SIC Code': '35,358', 'NAICS Code': '33,333', 'revenue': '$5.5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/pasteurization-technology-group-ptg-'}
+{'company_name_zoominfo': 'Bakken Energy', 'website': 'www.bakkenenergy.com', 'headquarters': '117 W Front Ave, Lincoln, North Dakota, 58504, United States', 'SIC Code': '49,491', 'NAICS Code': '22,221', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/bakken-energy'}
+{'company_name_zoominfo': 'Q.E.D. Environmental Systems', 'website': 'www.qedenv.com', 'headquarters': '2355 Bishop Cir W, Dexter, Michigan, 48130, United States', 'SIC Code': '89,899', 'NAICS Code': '33,333', 'revenue': '$27.7M', 'Number of Employees': '111', 'LinkedIn url': 'http://www.linkedin.com/company/qed-environmental-systems'}
+{'company_name_zoominfo': 'Intergulf Commodities', 'website': 'www.intergulf.com', 'headquarters': '700 W Georgia St 880, Vancouver, British Columbia, V7Y 1B6, Canada', 'SIC Code': '65,653', 'NAICS Code': '53,531', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/intergulf-devopment-group'}
+renewing ip
+429
+2a0b:f4c2:1::1
+{'company_name_zoominfo': 'Conceptos Plasticos', 'website': 'www.conceptosplasticos.com', 'headquarters': '# 18-93 parque industrial san jorge bodega 25 Calle 2, Colombia, Cundi...', 'SIC Code': '30,308', 'NAICS Code': '32,326', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/conceptos-plasticos'}
+{'company_name_zoominfo': 'Universal Environmental Services', 'website': 'www.universalenvironmentalservices.com', 'headquarters': '411 Dividend Dr, Peachtree City, Georgia, 30269, United States', 'SIC Code': '49,17', 'NAICS Code': '32,324', 'revenue': '$59.7M', 'Number of Employees': '267', 'LinkedIn url': 'http://www.linkedin.com/company/universalenvironmentalservices'}
+{'company_name_zoominfo': 'Concrete Pumping Holdings', 'website': 'www.concretepumpingholdings.com', 'headquarters': '500 E 84th Ave Ste A5, Thornton, Colorado, 80229, United States', 'SIC Code': '67,671', 'NAICS Code': '55,551', 'revenue': '$350.4M', 'Number of Employees': '1,300', 'LinkedIn url': 'http://www.linkedin.com/company/market-strides'}
+{'company_name_zoominfo': 'Waste Remedies', 'website': 'www.wasteremedies.com', 'headquarters': '7935 Clayton Rd, St. Louis, Missouri, 63117, United States', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '$6.5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/waste-remedies'}
+{'company_name_zoominfo': 'Regreen Technologies', 'website': 'www.regreentechnologies.com', 'headquarters': '18291 Enterprise Ln, Huntington Beach, California, 92648, United State...', 'SIC Code': '28,287', 'NAICS Code': '32,325', 'revenue': '$32.4M', 'Number of Employees': '147', 'LinkedIn url': 'http://www.linkedin.com/company/regreen-international-solutions'}
+{'company_name_zoominfo': 'Watertronics', 'website': 'www.watertronics.com', 'headquarters': '525 E Industrial Dr Ste 200, Hartland, Wisconsin, 53029, United States', 'SIC Code': '35,356', 'NAICS Code': '33,333', 'revenue': '$20M', 'Number of Employees': '90', 'LinkedIn url': 'http://www.linkedin.com/company/watertronics-llc'}
+{'company_name_zoominfo': 'Avidity Science', 'website': 'www.avidityscience.com', 'headquarters': '819 Bakke Ave, Waterford, Wisconsin, 53185, United States', 'SIC Code': '38,382', 'NAICS Code': '33,333', 'revenue': '$65.7M', 'Number of Employees': '251', 'LinkedIn url': 'http://www.linkedin.com/company/avidityscience'}
+{'company_name_zoominfo': 'Wilmington Paper', 'website': 'www.wilmingtonpaper.com', 'headquarters': '20 Hook Mountain Rd, Pine Brook, New Jersey, 07058, United States', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '$37.3M', 'Number of Employees': '112', 'LinkedIn url': 'http://www.linkedin.com/company/wilmington-paper-corporation'}
+{'company_name_zoominfo': 'Alkemy Environmental', 'website': 'www.alkemyenvironmental.com', 'headquarters': '444 Somerville Ave, Somerville, Massachusetts, 02143, United States', 'SIC Code': '89,899', 'NAICS Code': '54,541', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/alkemy-environmental'}
+{'company_name_zoominfo': 'WasteTrakr', 'website': 'www.wastetrakr.com', 'headquarters': '4115 Blackhawk Plaza Cir Ste 100, Danville, California, 94506, United ...', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/wastetrakr'}
+{'company_name_zoominfo': 'reNature', 'website': 'www.renature.co', 'headquarters': '1718 W 3rd St, Tempe, Arizona, 85281, United States', 'SIC Code': '76,762', 'NAICS Code': '11,115', 'revenue': '$8.4M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/renature-inc-'}
+{'company_name_zoominfo': 'Adler Tank Rentals', 'website': 'www.adlertankrentals.com', 'headquarters': '5700 Las Positas Rd, Livermore, California, 94551, United States', 'SIC Code': '47,473', 'NAICS Code': '53,532', 'revenue': '$72.5M', 'Number of Employees': '133', 'LinkedIn url': 'http://www.linkedin.com/company/adler-tank-rentals'}
+renewing ip
+429
+2620:7:6001::122
+{'company_name_zoominfo': 'Hydrite Chemical', 'website': 'www.hydrite.com', 'headquarters': '17385 Golf Pkwy, Brookfield, Wisconsin, 53045, United States', 'SIC Code': '51,516', 'NAICS Code': '42,424', 'revenue': '$740.6M', 'Number of Employees': '843', 'LinkedIn url': 'http://www.linkedin.com/company/hydrite-chemical-co-'}
+{'company_name_zoominfo': 'Soil Safe', 'website': 'www.soilsafe.com', 'headquarters': '6700 Alexander Bell Dr Ste 300, Columbia, Maryland, 21046, United Stat...', 'SIC Code': '49,07', 'NAICS Code': '22,221', 'revenue': '$24.7M', 'Number of Employees': '99', 'LinkedIn url': 'http://www.linkedin.com/company/soilsafe-solutions-group'}
+{'company_name_zoominfo': 'Taronis Fuels', 'website': 'www.taronisfuels.com', 'headquarters': '24980 N 83rd Ave Ste 100, Peoria, Arizona, 85383, United States', 'SIC Code': '28,281', 'NAICS Code': '22,221', 'revenue': '$28.4M', 'Number of Employees': '151', 'LinkedIn url': 'http://www.linkedin.com/company/taronis-fuels-inc'}
+{'company_name_zoominfo': 'Mountain Waste & Recycling', 'website': 'www.mountainwaste.com', 'headquarters': '1058 County Road 100, Carbondale, Colorado, 81623, United States', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '$16.6M', 'Number of Employees': '85', 'LinkedIn url': 'http://www.linkedin.com/company/intermountain-waste-llc'}
+{'company_name_zoominfo': 'G2 Revolution', 'website': 'www.g2rev.com', 'headquarters': '8585 Pyott Rd Ste 100, Lake in the Hills, Illinois, 60156, United Stat...', 'SIC Code': '49,495', 'NAICS Code': '48,488', 'revenue': '$17.6M', 'Number of Employees': '55', 'LinkedIn url': 'http://www.linkedin.com/company/g2-revolution-llc'}
+{'company_name_zoominfo': 'Artesian Water Company', 'website': 'www.artesianwater.com', 'headquarters': '664 Churchmans Rd, Newark, Delaware, 19702, United States', 'SIC Code': '49,494', 'NAICS Code': '22,221', 'revenue': '$80.9M', 'Number of Employees': '226', 'LinkedIn url': 'http://www.linkedin.com/company/1239042'}
+{'company_name_zoominfo': 'XRI Holdings', 'website': 'www.xriblue.com', 'headquarters': '415 W Wall St Ste 1300, Midland, Texas, 79701, United States', 'SIC Code': '49,67', 'NAICS Code': '22,221', 'revenue': '$5.3M', 'Number of Employees': '31', 'LinkedIn url': 'http://www.linkedin.com/company/xriholdingsllc'}
+{'company_name_zoominfo': 'BRITA', 'website': 'www.brita.de', 'headquarters': '4 Heinrich-hertz-str., Taunusstein, Hessen, 65232, Germany', 'SIC Code': '35,356', 'NAICS Code': '33,333', 'revenue': '$643.5M', 'Number of Employees': '1,235', 'LinkedIn url': 'http://www.linkedin.com/company/brita-gmbh'}
+{'company_name_zoominfo': 'Ondavia', 'website': 'www.ondavia.com', 'headquarters': '26102 Eden Landing Rd Ste 1 Ste 1, Hayward, California, 94545, United ...', 'SIC Code': '38,382', 'NAICS Code': '33,334', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/ondavia-inc.'}
+{'company_name_zoominfo': 'PRAB', 'website': 'www.prab.org', 'headquarters': '90 Jersey Ave, New Brunswick, New Jersey, 08901, United States', 'SIC Code': '86,58', 'NAICS Code': '72,722', 'revenue': '$12.8M', 'Number of Employees': '206', 'LinkedIn url': 'http://www.linkedin.com/company/prab'}
+{'company_name_zoominfo': 'KOR Water', 'website': 'www.korwater.com', 'headquarters': '95 Enterprise Ste 310, Aliso Viejo, California, 92656, United States', 'SIC Code': '49,494', 'NAICS Code': '22,221', 'revenue': '$5.2M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/kor-water'}
+renewing ip
+429
+2a0b:f4c0:16c:1::1
+{'company_name_zoominfo': 'DEKA', 'website': 'www.dekaresearch.com', 'headquarters': '340 Commercial St, Manchester, New Hampshire, 03101, United States', 'SIC Code': '82,87', 'NAICS Code': '54,541', 'revenue': '$105.7M', 'Number of Employees': '533', 'LinkedIn url': 'http://www.linkedin.com/company/deka-research-&amp'}
+{'company_name_zoominfo': 'WesTech', 'website': 'www.westech-inc.com', 'headquarters': '3665 S West Temple, Salt Lake City, Utah, 84115, United States', 'SIC Code': '35,359', 'NAICS Code': '33,335', 'revenue': '$292.8M', 'Number of Employees': '617', 'LinkedIn url': 'http://www.linkedin.com/company/westech-equipment'}
+{'company_name_zoominfo': 'Hyde Marine', 'website': 'www.hydemarine.com', 'headquarters': '2000 Mcclaren Woods Dr, Coraopolis, Pennsylvania, 15108, United States', 'SIC Code': '37,373', 'NAICS Code': '33,336', 'revenue': '$47.1M', 'Number of Employees': '100', 'LinkedIn url': 'http://www.linkedin.com/company/hyde-marine-inc'}
+{'company_name_zoominfo': 'Red River Waste Solutions', 'website': 'www.rrws.com', 'headquarters': '4004 E Us Hwy 290 W, Dripping Springs, Texas, 78620, United States', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '$86.7M', 'Number of Employees': '291', 'LinkedIn url': 'http://www.linkedin.com/company/red-river-waste-solutions'}
+{'company_name_zoominfo': 'Planet Found Energy Development', 'website': 'www.planetfound.com', 'headquarters': '1732 Broad St, Pocomoke City, Maryland, 21851, United States', 'SIC Code': '49,491', 'NAICS Code': '22,221', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/planet-found-energy-development-llc'}
+{'company_name_zoominfo': 'AUC Group', 'website': 'www.aucgroup.net', 'headquarters': '1800 Augusta Dr Ste 108, Houston, Texas, 77057, United States', 'SIC Code': '35,358', 'NAICS Code': '33,333', 'revenue': '$6.2M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/auc-group-lp'}
+{'company_name_zoominfo': 'SJ Electro Systems', 'website': 'www.sjeinc.com', 'headquarters': '22650 County Hwy 6, Detroit Lakes, Minnesota, 56501, United States', 'SIC Code': '83,839', 'NAICS Code': '81,813', 'revenue': '$21.5M', 'Number of Employees': '111', 'LinkedIn url': 'http://www.linkedin.com/company/sje-inc-official'}
+{'company_name_zoominfo': 'Petro Waste Environmental', 'website': 'www.petrowastelp.com', 'headquarters': '153 Treeline Park Ste 100, San Antonio, Texas, 78209, United States', 'SIC Code': '49,495', 'NAICS Code': '22,221', 'revenue': '$11.7M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/petro-waste-environmental'}
+{'company_name_zoominfo': 'Ag-Grid Energy', 'website': 'www.aggridenergy.com', 'headquarters': '7 Greenbriar Ln, Kennett Square, Pennsylvania, 19348, United States', 'SIC Code': '49,491', 'NAICS Code': '22,221', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/ag-grid-energy-llc'}
+{'company_name_zoominfo': 'Precision Filtration Products', 'website': 'www.precisionfiltration.com', 'headquarters': 'PO Box, Pennsburg, Pennsylvania, 18073, United States', 'SIC Code': '35,356', 'NAICS Code': '33,333', 'revenue': '$7.6M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/precision-filtration-products'}
+{'company_name_zoominfo': 'RealEnergy', 'website': 'www.realenergy.com', 'headquarters': '1500 Soscol Ferry Rd, Napa, California, 94558, United States', 'SIC Code': '87,874', 'NAICS Code': '54,541', 'revenue': '$7.6M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/real-energy-sustainability-llc'}
+{'company_name_zoominfo': 'Alliance Environmental Group', 'website': 'www.alliance-enviro.com', 'headquarters': '777 N Georgia Ave, Azusa, California, 91702, United States', 'SIC Code': '47,473', 'NAICS Code': '56,561', 'revenue': '$67.9M', 'Number of Employees': '222', 'LinkedIn url': 'http://www.linkedin.com/company/alliance-environmental-group-inc.'}
+renewing ip
+429
+2605:6400:10:1362::2
+{'company_name_zoominfo': 'Martex Fiber Southern', 'website': 'www.martexfiber.com', 'headquarters': '6728 Orr Rd, Charlotte, North Carolina, 28213, United States', 'SIC Code': '50,509', 'NAICS Code': '42,423', 'revenue': '$55M', 'Number of Employees': '193', 'LinkedIn url': 'http://www.linkedin.com/company/martex-fiber'}
+{'company_name_zoominfo': 'Duke', 'website': 'www.dukes.com', 'headquarters': '1020 Hiawatha Blvd W 1, Syracuse, New York, 13204, United States', 'SIC Code': '49', 'NAICS Code': '22,221', 'revenue': '$19.1M', 'Number of Employees': '64', 'LinkedIn url': 'http://www.linkedin.com/company/duke'}
+{'company_name_zoominfo': 'Wastewater Compliance Systems', 'website': 'www.wastewater-compliance-systems.com', 'headquarters': '333 E Main St 367, Lehi, Utah, 84043, United States', 'SIC Code': '89,899', 'NAICS Code': '54,541', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/wastewater-compliance-systems'}
+{'company_name_zoominfo': 'Dynamatic', 'website': 'www.dynamatic.com', 'headquarters': '7900 Durand Ave Bldg 3, Sturtevant, Wisconsin, 53177, United States', 'SIC Code': '35,356', 'NAICS Code': '33,333', 'revenue': '$105.4M', 'Number of Employees': '139', 'LinkedIn url': 'http://www.linkedin.com/company/dsi-dynamatic'}
+{'company_name_zoominfo': 'Keter Environmental Services', 'website': 'www.keteres.com', 'headquarters': '101 W Washington Street Suite 1000 East, Indianapolis, Indiana, 46204,...', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '$63.3M', 'Number of Employees': '133', 'LinkedIn url': 'http://www.linkedin.com/company/keter-environmental-services'}
+{'company_name_zoominfo': 'WaterFleet', 'website': 'www.waterfleet.com', 'headquarters': '5110 S.e. Loop 410, San Antonio, Texas, 78222, United States', 'SIC Code': '16,162', 'NAICS Code': '23,237', 'revenue': '$26M', 'Number of Employees': '110', 'LinkedIn url': 'http://www.linkedin.com/company/waterfleet'}
+{'company_name_zoominfo': 'Revolution', 'website': 'www.revolutionplastics.com', 'headquarters': '8801 Frazier Park, Little Rock, Arkansas, 72206, United States', 'SIC Code': '30,308', 'NAICS Code': '32,326', 'revenue': '$6.7M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/revolutioncompany'}
+{'company_name_zoominfo': 'Source One Environmental', 'website': 'www.s1eonline.com', 'headquarters': '300 S Dayton St, Davison, Michigan, 48423, United States', 'SIC Code': '16,162', 'NAICS Code': '23,237', 'revenue': '$5.9M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/source-1-environmental'}
+{'company_name_zoominfo': 'AmeriWater', 'website': 'www.ameriwater.com', 'headquarters': '3345 Stop 8 Rd, Dayton, Ohio, 45414, United States', 'SIC Code': '35,358', 'NAICS Code': '33,333', 'revenue': '$16.5M', 'Number of Employees': '66', 'LinkedIn url': 'http://www.linkedin.com/company/ameriwater'}
+{'company_name_zoominfo': 'Sylmar Group', 'website': 'www.sylmargrp.com', 'headquarters': '360 E 2nd St Ste 800, Los Angeles, California, 90008, United States', 'SIC Code': '62,628', 'NAICS Code': '52,523', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/sylmar-group'}
+renewing ip
+429
+2605:6400:d814:2ec::
+{'company_name_zoominfo': 'Revivn', 'website': 'www.revivn.com', 'headquarters': '141 Flushing Ave, Brooklyn, New York, 11205, United States', 'SIC Code': '73,737', 'NAICS Code': '81,811', 'revenue': '$12M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/revivn'}
+{'company_name_zoominfo': 'ScarabTECH.', 'website': 'www.scarabtech.com', 'headquarters': '1202 Walz Ave, Glenwood Springs, Colorado, 81601, United States', 'SIC Code': '51,516', 'NAICS Code': '42,424', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/scarabtech'}
+('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+<class 'UnboundLocalError'>
+error in http://webcache.googleusercontent.com/search?q=cache%3Ahttps%3A%2F%2Fwww.zoominfo.com%2Fc%2Falpine-waste-recycling%2F1933967
+local variable 'page_content' referenced before assignment
+https://www.zoominfo.com/c/alpine-waste-recycling/1933967
+{'company_name_zoominfo': '!unknown-error', 'website': '!unknown-error', 'headquarters': '!unknown-error', 'SIC Code': '!unknown-error', 'NAICS Code': '!unknown-error', 'revenue': '!unknown-error', 'Number of Employees': '!unknown-error', 'LinkedIn url': '!unknown-error'}
+renewing ip
+429
+2a0b:f4c1:2::251
+{'company_name_zoominfo': 'Dalbo Holdings', 'website': 'www.dalboholdings.com', 'headquarters': '2150 S 1300 E Ste 100, Salt Lake City, Utah, 84106, United States', 'SIC Code': '67,671', 'NAICS Code': '55,551', 'revenue': '$50.3M', 'Number of Employees': '47', 'LinkedIn url': 'http://www.linkedin.com/company/dalbo-holdings-inc'}
+{'company_name_zoominfo': 'AquiPor Technologies', 'website': 'www.aquipor.com', 'headquarters': '4118 E 33rd Ave, Spokane, Washington, 99223, United States', 'SIC Code': '50,508', 'NAICS Code': '42,423', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/aquipor-technologies'}
+{'company_name_zoominfo': 'Commonwealth Computer Recycling', 'website': 'www.ccrcyber.com', 'headquarters': '1628 Roseytown Rd Unit 8, Greensburg, Pennsylvania, 15601, United Stat...', 'SIC Code': '73,737', 'NAICS Code': '51,518', 'revenue': '$5.6M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/commonwealth-computer-recycling-llc'}
+{'company_name_zoominfo': 'Allied Resource', 'website': 'www.alliedresourcecorp.com', 'headquarters': '435 Devon Park Dr Bldg 200, Wayne, Pennsylvania, 19087, United States', 'SIC Code': '28,281', 'NAICS Code': '32,325', 'revenue': '$6.7M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/allied-energy-resources-corp'}
+{'company_name_zoominfo': 'Sjw', 'website': 'www.sjwgroup.com', 'headquarters': '110 W Taylor St, San Jose, California, 95110, United States', 'SIC Code': '49,494', 'NAICS Code': '22,221', 'revenue': '$583.2M', 'Number of Employees': '751', 'LinkedIn url': 'http://www.linkedin.com/company/sjw-construction-inc-'}
+{'company_name_zoominfo': 'Go Green Global Technologies', 'website': 'www.gogreentechcorp.com', 'headquarters': '580 Pepper St, Monroe, Connecticut, 06468, United States', 'SIC Code': '35,358', 'NAICS Code': '33,333', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/go-green-technologies-corp'}
+{'company_name_zoominfo': 'KW Plastics', 'website': 'www.kwplastics.com', 'headquarters': '279 Pike County Lake Rd, Troy, Alabama, 36079, United States', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '$116M', 'Number of Employees': '350', 'LinkedIn url': 'http://www.linkedin.com/company/kw-plastics'}
+{'company_name_zoominfo': 'Solterra Recycling Solutions', 'website': 'www.solterrarecycling.com', 'headquarters': '432 Stokes Ave, Ewing, New Jersey, 08638, United States', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '$26.1M', 'Number of Employees': '79', 'LinkedIn url': 'http://www.linkedin.com/company/central-jersey-waste-&-recycling-inc-'}
+{'company_name_zoominfo': 'Banqloop', 'website': 'www.banqloop.com', 'headquarters': '!not-found', 'SIC Code': '72,722', 'NAICS Code': '54,541', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/banqloop'}
+{'company_name_zoominfo': 'Analytical Technology', 'website': 'www.analyticaltechnology.com', 'headquarters': '6 Iron Bridge Dr, Collegeville, Pennsylvania, 19426, United States', 'SIC Code': '38,382', 'NAICS Code': '54,541', 'revenue': '$18.8M', 'Number of Employees': '140', 'LinkedIn url': 'http://www.linkedin.com/company/the-analytical-group'}
+renewing ip
+429
+2a0b:f4c2:1::1
+renewing ip
+429
+2a0b:f4c2:1::1
+renewing ip
+429
+2a0b:f4c2:1::1
+renewing ip
+429
+2001:67c:6ec:203:192:42:116:214
+renewing ip
+429
+2a03:e600:100::68
+{'company_name_zoominfo': 'Comstock', 'website': 'www.comstockinc.com', 'headquarters': '!not-found', 'SIC Code': '87,874', 'NAICS Code': '54,541', 'revenue': '$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/comstock-inc'}
+{'company_name_zoominfo': 'Primary Energy Recycling', 'website': 'www.primaryenergy.com', 'headquarters': '2215 S York Rd Ste 202, Oak Brook, Illinois, 60523, United States', 'SIC Code': '49,493', 'NAICS Code': '22,221', 'revenue': '$28.4M', 'Number of Employees': '40', 'LinkedIn url': 'http://www.linkedin.com/company/primary-energy-recycling-corp.'}
+{'company_name_zoominfo': 'Eco2 Plastics', 'website': 'www.eco2plastics.com', 'headquarters': '5300 Claus Rd Ste 5, Modesto, California, 95357, United States', 'SIC Code': '52,525', 'NAICS Code': '42,424', 'revenue': '$9.8M', 'Number of Employees': '39', 'LinkedIn url': 'http://www.linkedin.com/company/eco2-plastics'}
+{'company_name_zoominfo': 'Virridy', 'website': 'www.virridy.com', 'headquarters': 'Boulder, Colorado, United States', 'SIC Code': '73,737', 'NAICS Code': '51,511', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'YSI', 'website': 'www.ysi.com', 'headquarters': '1700-1725 Brannum Ln, Yellow Springs, Ohio, 45387, United States', 'SIC Code': '38,382', 'NAICS Code': '33,333', 'revenue': '$43.4M', 'Number of Employees': '224', 'LinkedIn url': 'http://www.linkedin.com/company/ysi-australia'}
+{'company_name_zoominfo': 'Blue Oak Capital', 'website': 'www.blueoak.net', 'headquarters': '2600 El Camino Real Ste 415, Palo Alto, California, 94306, United Stat...', 'SIC Code': '62,628', 'NAICS Code': '52,523', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/blue-oak-capital_2'}
+{'company_name_zoominfo': '!not-found', 'website': 'US Ecology', 'headquarters': '!not-found', 'SIC Code': '!not-found', 'NAICS Code': '!not-found', 'revenue': '!not-found', 'Number of Employees': '!not-found', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'Waste Partners Environmental', 'website': 'www.wastepartners.com', 'headquarters': '3324 Roy Orr Blvd, Grand Prairie, Texas, 75050, United States', 'SIC Code': '76,769', 'NAICS Code': '56,562', 'revenue': '$21.6M', 'Number of Employees': '76', 'LinkedIn url': 'http://www.linkedin.com/company/3021311'}
+{'company_name_zoominfo': 'Pioneer Recycling Services', 'website': 'www.pioneerrs.com', 'headquarters': '4109 192nd St E, Tacoma, Washington, 98446, United States', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '$32.3M', 'Number of Employees': '146', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'Underground Solutions', 'website': 'www.undergroundsolutions.com', 'headquarters': '6810 Roe Ave, Prairie Village, Kansas, 66208, United States', 'SIC Code': '47,473', 'NAICS Code': '23,237', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/underground-solutions'}
+{'company_name_zoominfo': 'Isidore Electronics Recycling', 'website': 'www.isidorerecycling.com', 'headquarters': '525 S Hewitt St, Los Angeles, California, 90013, United States', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/isidore-electronics-recycling'}
+{'company_name_zoominfo': 'San Diego County Water Authority', 'website': 'www.sdcwa.org', 'headquarters': '4677 Overland Ave, San Diego, California, 92123, United States', 'SIC Code': '49,494', 'NAICS Code': '22,221', 'revenue': '$130.5M', 'Number of Employees': '247', 'LinkedIn url': 'http://www.linkedin.com/company/31804'}
+{'company_name_zoominfo': 'EAWC Technologies', 'website': 'www.eawdtechnologies.com', 'headquarters': '3250 Mary St 303, Miami, Florida, 33133, United States', 'SIC Code': '49,491', 'NAICS Code': '22,221', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'Aberdair Aviation', 'website': 'www.aberdair.com', 'headquarters': 'PO Box 705, Nairobi, Nairobi Area, Kenya', 'SIC Code': '45,452', 'NAICS Code': '48,481', 'revenue': '$14.4M', 'Number of Employees': '51', 'LinkedIn url': 'http://www.linkedin.com/company/aberdair-aviation'}
+renewing ip
+429
+2605:cdc0:30:1e0:7553:d5f7:2521:1
+{'company_name_zoominfo': 'CentricsIT', 'website': 'www.centricsit.com', 'headquarters': '3140 Northwoods Pkwy NW Ste 700, Norcross, Georgia, 30071, United Stat...', 'SIC Code': '50,504', 'NAICS Code': '42,423', 'revenue': '$31.7M', 'Number of Employees': '142', 'LinkedIn url': 'http://www.linkedin.com/company/centricsit'}
+{'company_name_zoominfo': '!not-found', 'website': 'Amazon.com', 'headquarters': '!not-found', 'SIC Code': '!not-found', 'NAICS Code': '!not-found', 'revenue': '!not-found', 'Number of Employees': '!not-found', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'Clearly Clean Services', 'website': 'www.clearlycleanservices.com', 'headquarters': 'PO Box 72111, Roselle, Illinois, 60172, United States', 'SIC Code': '73,734', 'NAICS Code': '56,561', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/clear-cleaning-services'}
+{'company_name_zoominfo': 'SAK Construction', 'website': 'www.sakcon.com', 'headquarters': '864 Hoff Rd, O Fallon, Missouri, 63366, United States', 'SIC Code': '16,162', 'NAICS Code': '23,237', 'revenue': '$94M', 'Number of Employees': '402', 'LinkedIn url': 'http://www.linkedin.com/company/sak-construction-llc'}
+{'company_name_zoominfo': 'Oakleaf Global Holdings', 'website': 'www.oakleafwaste.com', 'headquarters': '415 Day Hill Rd, Windsor, Connecticut, 06095, United States', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '$23.5M', 'Number of Employees': '114', 'LinkedIn url': 'http://www.linkedin.com/company/oakleaf-waste-management'}
+{'company_name_zoominfo': 'Mesofilter', 'website': 'www.mesofilter.com', 'headquarters': '2211-c Fortune Dr, San Jose, California, 95131, United States', 'SIC Code': '35,358', 'NAICS Code': '33,333', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/mesofilter-inc.'}
+{'company_name_zoominfo': 'Layne Water Midstream', 'website': 'www.laynewatermidstream.com', 'headquarters': '1790 Hughes Landing Blvd Ste 425, The Woodlands, Texas, 77380, United ...', 'SIC Code': '49,492', 'NAICS Code': '48,486', 'revenue': '$10.1M', 'Number of Employees': '<25', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'McCoy', 'website': 'www.mccoyglobal.com', 'headquarters': '9910 39th Ave Nw. Ste 201, Edmonton, Alberta, T6E 5H8, Canada', 'SIC Code': '34,345', 'NAICS Code': '33,332', 'revenue': '$26.6M', 'Number of Employees': '100', 'LinkedIn url': 'http://www.linkedin.com/company/3ps-inc'}
+{'company_name_zoominfo': 'Aqua Terra Water Management', 'website': 'www.aqtwm.com', 'headquarters': '10343 Sam Houston Park Dr Ste 325, Houston, Texas, 77064, United State...', 'SIC Code': '49,494', 'NAICS Code': '22,221', 'revenue': '$31.3M', 'Number of Employees': '153', 'LinkedIn url': 'http://www.linkedin.com/company/aquaterra-water-management'}
+{'company_name_zoominfo': 'Tallgrass Energy', 'website': 'www.tallgrass.com', 'headquarters': '4200 W 115th St Ste 350, Leawood, Kansas, 66211, United States', 'SIC Code': '46,461', 'NAICS Code': '48,486', 'revenue': '$793.3M', 'Number of Employees': '800', 'LinkedIn url': 'http://www.linkedin.com/company/3508413'}
+{'company_name_zoominfo': 'EnviRelation', 'website': 'www.envirelation.com', 'headquarters': 'PO Box 3711, Washington, District of Columbia, 20007, United States', 'SIC Code': '28,287', 'NAICS Code': '32,325', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/envirelation-llc'}
+{'company_name_zoominfo': 'Pionetics', 'website': 'www.linxwater.com', 'headquarters': '151h Old County Rd, San Carlos, California, 94070, United States', 'SIC Code': '35,358', 'NAICS Code': '33,333', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': '!not-found'}
+renewing ip
+429
+2001:67c:6ec:203:192:42:116:179
+{'company_name_zoominfo': 'Water Engineering', 'website': 'www.h2oeng.com', 'headquarters': '1574 County Road 10, Mead, Nebraska, 68041, United States', 'SIC Code': '35,358', 'NAICS Code': '33,333', 'revenue': '<$5M', 'Number of Employees': '29', 'LinkedIn url': 'http://www.linkedin.com/company/water-engineering-inc.'}
+{'company_name_zoominfo': 'Rock Energy Systems', 'website': 'www.rockenergysystems.com', 'headquarters': '4109 Capital Cir, Janesville, Wisconsin, 53546, United States', 'SIC Code': '34,343', 'NAICS Code': '33,333', 'revenue': '$8.2M', 'Number of Employees': '34', 'LinkedIn url': 'http://www.linkedin.com/company/rock-energy-systems-llc'}
+{'company_name_zoominfo': 'Katadyn', 'website': 'www.katadyngroup.com', 'headquarters': '130 Cyber Ct Ste D, Rocklin, California, 95765, United States', 'SIC Code': '35,358', 'NAICS Code': '33,333', 'revenue': '$20.2M', 'Number of Employees': '151', 'LinkedIn url': 'http://www.linkedin.com/company/katadyn-north-america'}
+{'company_name_zoominfo': 'Katz Water Technologies', 'website': 'www.katzwatertx.com', 'headquarters': '11211 Richmond Ave Unit B102, Houston, Texas, 77082, United States', 'SIC Code': '35,358', 'NAICS Code': '33,333', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/katzwaterte'}
+{'company_name_zoominfo': 'Waterfront Brands', 'website': 'www.waterfrontbrands.com', 'headquarters': '1025 International Dr, Fergus Falls, Minnesota, 56527, United States', 'SIC Code': '37,371', 'NAICS Code': '33,336', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/waterfront-brands'}
+{'company_name_zoominfo': 'Jadcore', 'website': 'www.jadcore.com', 'headquarters': '300 N Fruitridge Ave Ste A, Terre Haute, Indiana, 47803, United States', 'SIC Code': '51,516', 'NAICS Code': '42,424', 'revenue': '$56.9M', 'Number of Employees': '234', 'LinkedIn url': 'http://www.linkedin.com/company/jadcore-llc'}
+{'company_name_zoominfo': 'Eureka Resources', 'website': 'www.eureka-resources.com', 'headquarters': '454 Pine St Fl 2, Williamsport, Pennsylvania, 17701, United States', 'SIC Code': '49,494', 'NAICS Code': '54,541', 'revenue': '$19.2M', 'Number of Employees': '63', 'LinkedIn url': 'http://www.linkedin.com/company/eureka-resources-llc'}
+{'company_name_zoominfo': 'Plastipak', 'website': 'www.plastipak.com', 'headquarters': '41605 Ann Arbor Rd E, Plymouth, Michigan, 48170, United States', 'SIC Code': '30,308', 'NAICS Code': '55,551', 'revenue': '$2.9B', 'Number of Employees': '5,900', 'LinkedIn url': 'http://www.linkedin.com/company/plastipak'}
+('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+<class 'UnboundLocalError'>
+error in http://webcache.googleusercontent.com/search?q=cache%3Ahttps%3A%2F%2Fwww.zoominfo.com%2Fc%2Fdiamond-z%2F31265853
+local variable 'page_content' referenced before assignment
+https://www.zoominfo.com/c/diamond-z/31265853
+{'company_name_zoominfo': '!unknown-error', 'website': '!unknown-error', 'headquarters': '!unknown-error', 'SIC Code': '!unknown-error', 'NAICS Code': '!unknown-error', 'revenue': '!unknown-error', 'Number of Employees': '!unknown-error', 'LinkedIn url': '!unknown-error'}
+renewing ip
+429
+107.189.8.56
+renewing ip
+429
+107.189.8.56
+renewing ip
+429
+107.189.8.56
+renewing ip
+429
+185.220.101.177
+renewing ip
+429
+185.220.101.80
+renewing ip
+429
+185.220.101.80
+renewing ip
+429
+185.220.101.161
+renewing ip
+429
+185.220.101.161
+renewing ip
+429
+185.220.103.119
+renewing ip
+429
+185.195.71.244
+renewing ip
+429
+185.195.71.244
+renewing ip
+429
+185.195.71.244
+{'company_name_zoominfo': '!not-found', 'website': 'Superior USA Waste', 'headquarters': '!not-found', 'SIC Code': '!not-found', 'NAICS Code': '!not-found', 'revenue': '!not-found', 'Number of Employees': '!not-found', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'KADEYA Enterprise', 'website': 'www.kadeyafurniture.com', 'headquarters': '3958 Sundown Ln, Austin, Texas, 78736, United States', 'SIC Code': '73,738', 'NAICS Code': '54,541', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/kadeya'}
+{'company_name_zoominfo': 'The Maine Water', 'website': 'www.mainewater.com', 'headquarters': 'PO Box 11041, Lewiston, Maine, 04243, United States', 'SIC Code': '49,494', 'NAICS Code': '22,221', 'revenue': '$12.4M', 'Number of Employees': '35', 'LinkedIn url': 'http://www.linkedin.com/company/the-maine-water-company'}
+{'company_name_zoominfo': 'Miller Environmental Services', 'website': 'www.millerenviro.com', 'headquarters': '401 Navigation Blvd, Corpus Christi, Texas, 78408, United States', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '$19.3M', 'Number of Employees': '49', 'LinkedIn url': 'http://www.linkedin.com/company/miller-environmental-services-llc'}
+{'company_name_zoominfo': 'New Market Waste Solutions', 'website': 'www.newmarketwaste.com', 'headquarters': '2701 Coltsgate Rd Ste 100, Charlotte, North Carolina, 28211, United St...', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '$6.4M', 'Number of Employees': '30', 'LinkedIn url': 'http://www.linkedin.com/company/new-market-waste-solutions'}
+{'company_name_zoominfo': 'Federal International Recycling', 'website': 'www.federalinternational.com', 'headquarters': '7935 Clayton Rd Ste A, St. Louis, Missouri, 63117, United States', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '$110.8M', 'Number of Employees': '343', 'LinkedIn url': 'http://www.linkedin.com/company/federal-international-inc-'}
+{'company_name_zoominfo': 'Aris Water Solutions', 'website': 'www.ariswater.com', 'headquarters': '9811 Katy Fwy Ste 700, Houston, Texas, 77024, United States', 'SIC Code': '49,497', 'NAICS Code': '22,221', 'revenue': '$254M', 'Number of Employees': '148', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'Ionics', 'website': 'www.ionicsgroup.com', 'headquarters': '14 Mountain Dr, Calamba, 4027, Philippines', 'SIC Code': '36,367', 'NAICS Code': '33,334', 'revenue': '$21.4M', 'Number of Employees': '1,053', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'Aries Clean Energy', 'website': 'www.ariescleantech.com', 'headquarters': '4037 Rural Plains Cir Ste 290, Franklin, Tennessee, 37064, United Stat...', 'SIC Code': '49,491', 'NAICS Code': '22,221', 'revenue': '$6.2M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/aries-energy-alternative-renewable-innovative-economic-solutions-for-energy-'}
+{'company_name_zoominfo': 'GWTT', 'website': 'www.gwttllc.com', 'headquarters': '627 Mt. Hope Rd, Wharton, New Jersey, 07885, United States', 'SIC Code': '16,162', 'NAICS Code': '54,541', 'revenue': '$29.3M', 'Number of Employees': '134', 'LinkedIn url': 'http://www.linkedin.com/company/1022809'}
+{'company_name_zoominfo': 'Renewlogy', 'website': 'www.renewlogy.com', 'headquarters': '461 W 800 N, Salt Lake City, Utah, 84103, United States', 'SIC Code': '87,873', 'NAICS Code': '54,541', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/renewlogy'}
+{'company_name_zoominfo': 'ChemTreat', 'website': 'www.chemtreat.com', 'headquarters': '5640 Cox Rd, Glen Allen, Virginia, 23060, United States', 'SIC Code': '28,289', 'NAICS Code': '32,325', 'revenue': '$421.1M', 'Number of Employees': '1,208', 'LinkedIn url': 'http://www.linkedin.com/company/chemtreat-inc-'}
+{'company_name_zoominfo': 'Parley for the Oceans', 'website': 'www.parley.tv', 'headquarters': '187 Lafayette St Fl 5, New York, New York, 10013, United States', 'SIC Code': '87,873', 'NAICS Code': '54,541', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/parley-for-the-oceans'}
+renewing ip
+429
+178.218.144.18
+renewing ip
+429
+178.218.144.18
+{'company_name_zoominfo': 'Band Law Group', 'website': 'www.bandlawgroup.com', 'headquarters': '1 S School Ave Ste 500, Sarasota, Florida, 34237, United States', 'SIC Code': '81,811', 'NAICS Code': '54,541', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/band-law-group'}
+{'company_name_zoominfo': 'SA Recycling', 'website': 'www.sarecycling.com', 'headquarters': '3200 E Frontera St, Anaheim, California, 92806, United States', 'SIC Code': '50,509', 'NAICS Code': '56,562', 'revenue': '$515.1M', 'Number of Employees': '1,700', 'LinkedIn url': 'http://www.linkedin.com/company/sa-recycling'}
+{'company_name_zoominfo': 'Pelican Water', 'website': 'www.pelicanwater.com', 'headquarters': '400 Regency Forest Dr Ste 300, Cary, North Carolina, 27518, United Sta...', 'SIC Code': '35,358', 'NAICS Code': '33,333', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/pelican-water'}
+{'company_name_zoominfo': 'Pure Planet Waters', 'website': 'www.pureplanetwaters.com', 'headquarters': '4809 Avenue North Ste 185, Brooklyn, New York, 11234, United States', 'SIC Code': '49,494', 'NAICS Code': '22,221', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'MAX Environmental Technologies', 'website': 'www.maxenvironmental.com', 'headquarters': '651 Holiday Drive Foster Plz 5, Pittsburgh, Pennsylvania, 15220, Unite...', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '$9.7M', 'Number of Employees': '35', 'LinkedIn url': 'http://www.linkedin.com/company/max-environmental-technologies-inc-'}
+{'company_name_zoominfo': 'Graphite & Carbon Products', 'website': 'www.gcpcarbon.com', 'headquarters': '1225 Industrial Blvd, Bessemer, Alabama, 35022, United States', 'SIC Code': '36,362', 'NAICS Code': '33,335', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'Texas Disposal Systems', 'website': 'www.texasdisposal.com', 'headquarters': '12200 Carl Rd, Creedmoor, Texas, 78610, United States', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '$850.7M', 'Number of Employees': '1,100', 'LinkedIn url': 'http://www.linkedin.com/company/texas-disposal-systems'}
+{'company_name_zoominfo': 'Sensevere', 'website': 'www.sensevere.com', 'headquarters': '5000 Forbes Ave, Pittsburgh, Pennsylvania, 15213, United States', 'SIC Code': '38,382', 'NAICS Code': '33,334', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'Therma-Flite', 'website': 'www.yelp.com/biz/therma-flite-benicia', 'headquarters': '849 Jackson St, Benicia, California, 94510, United States', 'SIC Code': '51,516', 'NAICS Code': '42,424', 'revenue': '$15.5M', 'Number of Employees': '46', 'LinkedIn url': 'http://www.linkedin.com/company/therma-flite-inc-'}
+{'company_name_zoominfo': 'Red Lion Controls', 'website': 'www.redlion.net', 'headquarters': '20 Willow Springs Cir, York, Pennsylvania, 17406, United States', 'SIC Code': '38,382', 'NAICS Code': '33,334', 'revenue': '$70.3M', 'Number of Employees': '337', 'LinkedIn url': 'http://www.linkedin.com/company/413211'}
+{'company_name_zoominfo': 'CleanWorld', 'website': 'www.cleanworld.com', 'headquarters': '2330 Gold Meadow Way, Gold River, California, 95670, United States', 'SIC Code': '49,491', 'NAICS Code': '22,221', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/cleanworld'}
+{'company_name_zoominfo': 'Ecovation', 'website': 'www.ecovation.org.uk', 'headquarters': '106-108 Cowley Rd, Oxford, Oxfordshire, OX4 1JE, United Kingdom', 'SIC Code': '83,832', 'NAICS Code': '62,624', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': '!not-found'}
+renewing ip
+429
+199.249.230.174
+renewing ip
+429
+185.220.101.155
+renewing ip
+429
+185.220.101.190
+renewing ip
+429
+185.220.101.190
+{'company_name_zoominfo': 'SimpleWater', 'website': 'www.simplewater.us', 'headquarters': '2704 Derby St Apt 20, Berkeley, California, 94705, United States', 'SIC Code': '49,87', 'NAICS Code': '22,221', 'revenue': '$7.5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/simplewater'}
+{'company_name_zoominfo': 'Fleis & VandenBrink', 'website': 'www.fveng.com', 'headquarters': '2960 Lucerne Dr SE Ste, Grand Rapids, Michigan, 49546, United States', 'SIC Code': '87,871', 'NAICS Code': '54,541', 'revenue': '$102.9M', 'Number of Employees': '223', 'LinkedIn url': 'http://www.linkedin.com/company/fleis-&-vandenbrink'}
+{'company_name_zoominfo': 'GalFab', 'website': 'www.galfab.com', 'headquarters': '612 W 11th St, Winamac, Indiana, 46996, United States', 'SIC Code': '35,353', 'NAICS Code': '33,333', 'revenue': '$27.6M', 'Number of Employees': '72', 'LinkedIn url': 'http://www.linkedin.com/company/galfab-incorporated'}
+{'company_name_zoominfo': 'Biko Biolabs', 'website': 'www.bikobiolabs.com', 'headquarters': '17 Jackson St, Cambridge, Massachusetts, 02140, United States', 'SIC Code': '28,283', 'NAICS Code': '32,325', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'https://www.linkedin.com/company/bikobiolabs'}
+{'company_name_zoominfo': 'Ocean Tech', 'website': 'www.oceantech.com', 'headquarters': '1313 Winter St NE, Minneapolis, Minnesota, 55413, United States', 'SIC Code': '59,593', 'NAICS Code': '56,562', 'revenue': '$7.8M', 'Number of Employees': '49', 'LinkedIn url': 'http://www.linkedin.com/company/oceantech-electronic-removal-and-recycling'}
+{'company_name_zoominfo': 'Cobalt Water Global', 'website': 'www.cobaltwater-global.com', 'headquarters': '101 N Robinson Ave Fl 13, Oklahoma City, Oklahoma, 73102, United State...', 'SIC Code': '49,494', 'NAICS Code': '22,221', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/cobalt-water-global'}
+{'company_name_zoominfo': 'Range International', 'website': 'www.rangeinternational.com', 'headquarters': '126 Phillip St L 5, Sydney, New South Wales, 2000, Australia', 'SIC Code': '87,874', 'NAICS Code': '54,541', 'revenue': '<$5M', 'Number of Employees': '153', 'LinkedIn url': 'http://www.linkedin.com/company/rangr-international-limited'}
+{'company_name_zoominfo': 'Water Now', 'website': 'www.waternowinc.com', 'headquarters': '5000 South Fwy Ste 110, Fort Worth, Texas, 76115, United States', 'SIC Code': '49,494', 'NAICS Code': '22,221', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'NotAvailable', 'website': 'NotAvailable', 'headquarters': 'NotAvailable', 'SIC Code': 'NotAvailable', 'NAICS Code': 'NotAvailable', 'revenue': 'NotAvailable', 'Number of Employees': 'NotAvailable', 'LinkedIn url': 'NotAvailable'}
+{'company_name_zoominfo': 'Northwest Lineman College', 'website': 'www.lineman.edu', 'headquarters': '7600 S Meridian Rd, Meridian, Idaho, 83642, United States', 'SIC Code': '82,824', 'NAICS Code': '61,611', 'revenue': '<$5M', 'Number of Employees': '121', 'LinkedIn url': 'http://www.linkedin.com/company/northwest-lineman-college'}
+{'company_name_zoominfo': 'Paverguide', 'website': 'www.paverguide.com', 'headquarters': '24030 Kinnards Point Dr, Worton, Maryland, 21678, United States', 'SIC Code': '16,162', 'NAICS Code': '23,238', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'https://www.linkedin.com/company/paverguide'}
+{'company_name_zoominfo': 'Farmers Water', 'website': 'www.farmerswaterco.com', 'headquarters': '1525 E Sahuarita Rd, Sahuarita, Arizona, 85629, United States', 'SIC Code': '49,494', 'NAICS Code': '22,221', 'revenue': '$53.6M', 'Number of Employees': '188', 'LinkedIn url': 'http://www.linkedin.com/company/farmers-water-co'}
+{'company_name_zoominfo': 'Bay West', 'website': 'www.baywest.com', 'headquarters': '5 Empire Dr, Saint Paul, Minnesota, 55103, United States', 'SIC Code': '89,899', 'NAICS Code': '56,562', 'revenue': '$29.4M', 'Number of Employees': '141', 'LinkedIn url': 'http://www.linkedin.com/company/bay-west-llc'}
+{'company_name_zoominfo': 'PowerTech Water', 'website': 'www.powertechwater.com', 'headquarters': '140 Trade St, Lexington, Kentucky, 40511, United States', 'SIC Code': '49,494', 'NAICS Code': '22,221', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/powertech-water'}
+renewing ip
+429
+45.9.148.209
+renewing ip
+429
+109.70.100.2
+renewing ip
+429
+109.70.100.2
+renewing ip
+429
+109.70.100.2
+renewing ip
+429
+185.220.101.134
+renewing ip
+429
+185.220.101.134
+renewing ip
+429
+185.220.101.177
+renewing ip
+429
+171.25.193.20
+renewing ip
+429
+171.25.193.20
+renewing ip
+429
+185.220.101.183
+renewing ip
+429
+185.220.101.183
+renewing ip
+429
+104.192.3.74
+renewing ip
+429
+108.165.249.2
+renewing ip
+429
+108.165.249.2
+renewing ip
+429
+103.251.167.10
+renewing ip
+429
+185.220.101.168
+renewing ip
+429
+94.140.114.53
+renewing ip
+429
+94.140.114.53
+renewing ip
+429
+192.42.116.192
+renewing ip
+429
+192.42.116.192
+renewing ip
+429
+217.160.32.157
+renewing ip
+429
+217.160.32.157
+renewing ip
+429
+185.220.101.176
+renewing ip
+429
+192.42.116.177
+{'company_name_zoominfo': '!not-found', 'website': '!not-found', 'headquarters': '!not-found', 'SIC Code': '!not-found', 'NAICS Code': '!not-found', 'revenue': '!not-found', 'Number of Employees': '!not-found', 'LinkedIn url': '!not-found'}
+site-not-indexed
+
+{'company_name_zoominfo': '!not-found', 'website': '!not-found', 'headquarters': '!not-found', 'SIC Code': '!not-found', 'NAICS Code': '!not-found', 'revenue': '!not-found', 'Number of Employees': '!not-found', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'Clean Earth Rovers', 'website': 'www.cleanearthrovers.com', 'headquarters': 'United States', 'SIC Code': '76,769', 'NAICS Code': '56,561', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'Environmental Waste International', 'website': 'www.ewi.ca', 'headquarters': '1751 Wentworth St Unit 1, Whitby, Ontario, L1N 8R6, Canada', 'SIC Code': '89,899', 'NAICS Code': '56,562', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/environmental-waste-international'}
+{'company_name_zoominfo': 'Entech', 'website': 'www.4entech.com', 'headquarters': '10440 County Road 2, Middlebury, Indiana, 46540, United States', 'SIC Code': '30,306', 'NAICS Code': '42,423', 'revenue': '$23.7M', 'Number of Employees': '128', 'LinkedIn url': 'http://www.linkedin.com/company/entech-inc'}
+{'company_name_zoominfo': 'Allos Environmental', 'website': 'www.allosenv.com', 'headquarters': '298 24th St Ste 170, Ogden, Utah, 84401, United States', 'SIC Code': '89,899', 'NAICS Code': '54,541', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/promontory-point-resources-llc'}
+{'company_name_zoominfo': 'LiquiTech', 'website': 'www.liquitech.com', 'headquarters': '421 Eisenhower Ln S, Lombard, Illinois, 60148, United States', 'SIC Code': '35,358', 'NAICS Code': '33,333', 'revenue': '$13M', 'Number of Employees': '37', 'LinkedIn url': 'http://www.linkedin.com/company/liquitech-inc'}
+{'company_name_zoominfo': '!not-found', 'website': 'Clean Filtration Technologies', 'headquarters': '!not-found', 'SIC Code': '!not-found', 'NAICS Code': '!not-found', 'revenue': '!not-found', 'Number of Employees': '!not-found', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'Piedmont Pacific', 'website': 'www.piedmontpacific.com', 'headquarters': '330 Rue St-vallier Est Ste 340, Quebec, Quebec, G1K 9C5, Canada', 'SIC Code': '35,356', 'NAICS Code': '33,333', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/piedmont-pacific-industries'}
+{'company_name_zoominfo': 'Lakin Tire', 'website': 'www.lakintire.com', 'headquarters': '15305 Spring Ave, Santa Fe Springs, California, 90670, United States', 'SIC Code': '75,753', 'NAICS Code': '32,326', 'revenue': '$75.6M', 'Number of Employees': '323', 'LinkedIn url': 'http://www.linkedin.com/company/lakin-tire'}
+{'company_name_zoominfo': 'PSC Metals', 'website': 'www.pscmetals.com', 'headquarters': '5875 Landerbrook Dr, Mayfield Heights, Ohio, 44124, United States', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '$87M', 'Number of Employees': '577', 'LinkedIn url': 'http://www.linkedin.com/company/psc-metals'}
+renewing ip
+429
+185.220.101.10
+renewing ip
+429
+185.220.101.163
+renewing ip
+429
+178.218.144.99
+renewing ip
+429
+178.218.144.99
+renewing ip
+429
+31.24.148.37
+renewing ip
+429
+31.24.148.37
+renewing ip
+429
+81.19.139.201
+{'company_name_zoominfo': 'HiTECH ASSETS', 'website': 'www.hitech4less.com', 'headquarters': '401 N Portland Ave, Oklahoma City, Oklahoma, 73107, United States', 'SIC Code': '73,737', 'NAICS Code': '54,541', 'revenue': '$16.3M', 'Number of Employees': '56', 'LinkedIn url': 'http://www.linkedin.com/company/hitech-assets'}
+{'company_name_zoominfo': 'Waste Control Specialists', 'website': 'www.wcstexas.com', 'headquarters': '17101 Preston Rd Ste 115, Dallas, Texas, 75248, United States', 'SIC Code': '49,495', 'NAICS Code': '81,812', 'revenue': '$48.1M', 'Number of Employees': '100', 'LinkedIn url': 'http://www.linkedin.com/company/wcstexas'}
+{'company_name_zoominfo': '!not-found', 'website': 'Oracle', 'headquarters': '!not-found', 'SIC Code': '!not-found', 'NAICS Code': '!not-found', 'revenue': '!not-found', 'Number of Employees': '!not-found', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'QRS Recycling', 'website': 'www.qrsrecycling.com', 'headquarters': '1525 S Vandeventer Ave, St. Louis, Missouri, 63110, United States', 'SIC Code': '49,495', 'NAICS Code': '22,221', 'revenue': '$6.3M', 'Number of Employees': '60', 'LinkedIn url': 'http://www.linkedin.com/company/qrs-recycling'}
+{'company_name_zoominfo': 'Scinor Water America', 'website': 'www.scinor.com', 'headquarters': '40 Wall St Fl 28, New York, New York, 10005, United States', 'SIC Code': '35,358', 'NAICS Code': '33,333', 'revenue': '$14.1M', 'Number of Employees': '43', 'LinkedIn url': 'http://www.linkedin.com/company/scinor'}
+{'company_name_zoominfo': 'Cloud 9 Services', 'website': 'www.cloud9service.com', 'headquarters': '1201 W Jackson St, Orlando, Florida, 32805, United States', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '$7.7M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/cloud-9-lounge'}
+{'company_name_zoominfo': '9Fiber', 'website': 'www.9fiber.com', 'headquarters': '9124 Flower Ave, Silver Spring, Maryland, 20901, United States', 'SIC Code': '26,261', 'NAICS Code': '32,322', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/9-fiber-llc'}
+{'company_name_zoominfo': 'Momentum Technologies', 'website': 'www.momentum-tech.com', 'headquarters': '506 938 Howe St, Vancouver, British Columbia, V7E 2J3, Canada', 'SIC Code': '36,367', 'NAICS Code': '33,334', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'Recovery Technology Solutions', 'website': 'www.yelp.com/biz/recovery-technology-eden-prairie', 'headquarters': '500 Marschall Rd Ste 200, Shakopee, Minnesota, 55379, United States', 'SIC Code': '29,295', 'NAICS Code': '32,324', 'revenue': '$7.7M', 'Number of Employees': '32', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'Flomatic', 'website': 'www.flomatic.com', 'headquarters': "15 Pruyn's Island Dr, Glens Falls, New York, 12801, United States", 'SIC Code': '34,349', 'NAICS Code': '33,332', 'revenue': '$14.7M', 'Number of Employees': '62', 'LinkedIn url': 'http://www.linkedin.com/company/danfoss-flomatic-valves'}
+{'company_name_zoominfo': 'ACF Environmental', 'website': 'www.acfenvironmental.com', 'headquarters': '9261 Industrial Ct, Manassas, Virginia, 20109, United States', 'SIC Code': '50,503', 'NAICS Code': '42,423', 'revenue': '$43.9M', 'Number of Employees': '226', 'LinkedIn url': 'http://www.linkedin.com/company/acf-environmental'}
+{'company_name_zoominfo': 'Gardet-Bezenac Recycling', 'website': 'www.gbrecycling.fr', 'headquarters': '616 Blvd Jules Durand, Le Havre, Normandy, 76600, France', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'Arrow Waste', 'website': 'www.arrowwaste.org', 'headquarters': '4039 Bonsal Rd, Conley, Georgia, 30288, United States', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': '!not-found'}
+renewing ip
+429
+107.189.6.124
+renewing ip
+429
+107.189.6.124
+renewing ip
+429
+192.42.116.212
+{'company_name_zoominfo': 'Clean Seas', 'website': 'www.cleanseas.org', 'headquarters': '!not-found', 'SIC Code': '49,83', 'NAICS Code': '22,221', 'revenue': '$6.5M', 'Number of Employees': '27', 'LinkedIn url': 'http://www.linkedin.com/company/unep'}
+{'company_name_zoominfo': 'Reynolds Construction', 'website': 'www.reynoldscon.com', 'headquarters': '1775 E 69th Ave, Denver, Colorado, 80229, United States', 'SIC Code': '15,152', 'NAICS Code': '23,237', 'revenue': '$30.2M', 'Number of Employees': '162', 'LinkedIn url': 'http://www.linkedin.com/company/tierdael-construction-company-inc-'}
+{'company_name_zoominfo': 'PAX Water Technologies', 'website': 'www.paxwater.com', 'headquarters': '860 Harbour Way S Ste C, Richmond, California, 94804, United States', 'SIC Code': '35,358', 'NAICS Code': '33,333', 'revenue': '$6.3M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/pax-water-technologies'}
+{'company_name_zoominfo': "Hull's Environmental Services", 'website': 'www.hullsenvironmental.com', 'headquarters': '6988 Reck Rd, Wilson, Oklahoma, 73463, United States', 'SIC Code': '42,421', 'NAICS Code': '56,562', 'revenue': '$17.4M', 'Number of Employees': '84', 'LinkedIn url': "http://www.linkedin.com/company/hull's-environmental-services-inc-"}
+{'company_name_zoominfo': 'Tangent Technologies', 'website': 'www.tangentusa.com', 'headquarters': '33270 Hwy 99e, Tangent, Oregon, 97389, United States', 'SIC Code': '24,249', 'NAICS Code': '32,321', 'revenue': '$18M', 'Number of Employees': '46', 'LinkedIn url': 'http://www.linkedin.com/company/tangent-technologies'}
+{'company_name_zoominfo': 'Mid America Recycling', 'website': 'www.midamericarecycling.com', 'headquarters': '2742 E Market St, Des Moines, Iowa, 50317, United States', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '$14.9M', 'Number of Employees': '37', 'LinkedIn url': 'http://www.linkedin.com/company/mid-america-recycling'}
+{'company_name_zoominfo': 'Ripple Glass', 'website': 'www.rippleglass.com', 'headquarters': '450 E 4th St Ste 201, Kansas City, Missouri, 64106, United States', 'SIC Code': '17,179', 'NAICS Code': '23,238', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/ripple-glass'}
+{'company_name_zoominfo': 'Ecosphere Technologies', 'website': 'www.ecospheretech.com', 'headquarters': '3515 SE Lionel Ter, Stuart, Florida, 34997, United States', 'SIC Code': '35,358', 'NAICS Code': '33,333', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/ecosphere-technologies-inc'}
+{'company_name_zoominfo': 'Atlantis Water', 'website': 'www.atlantiswater.com.au', 'headquarters': '27 Stepney St, Stepney, South Australia, 5069, Australia', 'SIC Code': '20,208', 'NAICS Code': '31,312', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/atlantis-water'}
+{'company_name_zoominfo': 'Brightmark', 'website': 'www.brightmark.com', 'headquarters': '1725 Montgomery St Fl 3, San Francisco, California, 94111, United Stat...', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '$32M', 'Number of Employees': '207', 'LinkedIn url': 'http://www.linkedin.com/company/brightmark-solutions'}
+{'company_name_zoominfo': 'MECO', 'website': 'www.meco.com', 'headquarters': '1500 Industrial Rd, Greeneville, Tennessee, 37745, United States', 'SIC Code': '50,508', 'NAICS Code': '42,423', 'revenue': '$31.3M', 'Number of Employees': '148', 'LinkedIn url': 'http://www.linkedin.com/company/meco-solutions'}
+{'company_name_zoominfo': 'AMPAC USA', 'website': 'www.ampac1.com', 'headquarters': '5255-5265 State St, Montclair, California, 91763, United States', 'SIC Code': '49,35', 'NAICS Code': '22,221', 'revenue': '$5.5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/ampac-usa'}
+renewing ip
+429
+185.220.102.241
+renewing ip
+429
+185.220.102.241
+renewing ip
+429
+192.42.116.192
+renewing ip
+429
+192.42.116.192
+renewing ip
+429
+185.220.100.247
+renewing ip
+429
+185.220.100.247
+renewing ip
+429
+23.154.177.19
+renewing ip
+429
+23.154.177.19
+renewing ip
+429
+185.100.87.250
+renewing ip
+429
+185.100.87.250
+renewing ip
+429
+198.98.60.90
+renewing ip
+429
+192.42.116.194
+{'company_name_zoominfo': 'XSi', 'website': 'www.xsnet.com', 'headquarters': '1005 Alderman Dr Ste 212, Alpharetta, Georgia, 30005, United States', 'SIC Code': '73,737', 'NAICS Code': '81,811', 'revenue': '$25.9M', 'Number of Employees': '113', 'LinkedIn url': 'http://www.linkedin.com/company/xs-international-inc-'}
+{'company_name_zoominfo': 'Impact Plastics', 'website': 'www.impactinnovates.com', 'headquarters': '950 Tollgate Rd, Elgin, Illinois, 60123, United States', 'SIC Code': '35,359', 'NAICS Code': '32,326', 'revenue': '$22.8M', 'Number of Employees': '54', 'LinkedIn url': 'http://www.linkedin.com/company/impact-plastics'}
+{'company_name_zoominfo': 'Tesco Controls', 'website': 'www.tescocontrols.com', 'headquarters': '8440 Florin Rd, Sacramento, California, 95823, United States', 'SIC Code': '38,382', 'NAICS Code': '33,335', 'revenue': '$45.8M', 'Number of Employees': '302', 'LinkedIn url': 'http://www.linkedin.com/company/tesco-controls-inc.'}
+{'company_name_zoominfo': 'Bluewater', 'website': 'www.bluewatertech.com', 'headquarters': '30303 Beck Rd, Wixom, Michigan, 48393, United States', 'SIC Code': '36,365', 'NAICS Code': '54,541', 'revenue': '$64.7M', 'Number of Employees': '201', 'LinkedIn url': 'http://www.linkedin.com/company/62060'}
+{'company_name_zoominfo': 'CMI', 'website': 'www.cmilc.com', 'headquarters': '605 Molly Ln Ste 150, Woodstock, Georgia, 30189, United States', 'SIC Code': '30,308', 'NAICS Code': '32,326', 'revenue': '$11.3M', 'Number of Employees': '96', 'LinkedIn url': 'http://www.linkedin.com/company/cmi-limited-co'}
+{'company_name_zoominfo': 'Red Bag Solutions', 'website': 'www.redbag.com', 'headquarters': '3431 Benson Ave Ste 100, Halethorpe, Maryland, 21227, United States', 'SIC Code': '73,738', 'NAICS Code': '56,562', 'revenue': '$5.7M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/red-bag-solutions'}
+{'company_name_zoominfo': 'Leonard Valve', 'website': 'www.leonardvalve.com', 'headquarters': '1360 Elmwood Ave, Cranston, Rhode Island, 02910, United States', 'SIC Code': '34,349', 'NAICS Code': '33,332', 'revenue': '$6.8M', 'Number of Employees': '29', 'LinkedIn url': 'http://www.linkedin.com/company/leonard-valve-company'}
+{'company_name_zoominfo': 'E Z Flo Intl', 'website': 'www.ez-flo.net', 'headquarters': '2750 E Mission Blvd, Ontario, California, 91761, United States', 'SIC Code': '50,507', 'NAICS Code': '42,423', 'revenue': '$30M', 'Number of Employees': '140', 'LinkedIn url': 'http://www.linkedin.com/company/ez-flo-international'}
+{'company_name_zoominfo': 'CRS Reprocessing Services', 'website': 'www.crs-reprocessing.com', 'headquarters': '5734 American Legion Rd, Tyler, Texas, 75708, United States', 'SIC Code': '49,495', 'NAICS Code': '42,424', 'revenue': '$43.4M', 'Number of Employees': '79', 'LinkedIn url': 'http://www.linkedin.com/company/crs-reprocessing'}
+{'company_name_zoominfo': 'Advantek Waste Management Services', 'website': 'www.advantekwms.com', 'headquarters': '11000 Richmond Ave Ste 195, Houston, Texas, 77042, United States', 'SIC Code': '42,421', 'NAICS Code': '56,562', 'revenue': '$7.4M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/advantek-waste-management-services-llc'}
+{'company_name_zoominfo': 'Advanced Technology Recycling', 'website': 'www.atrecycle.com', 'headquarters': '902 N Hazel St, Pontiac, Illinois, 61764, United States', 'SIC Code': '50,504', 'NAICS Code': '42,423', 'revenue': '$23.5M', 'Number of Employees': '110', 'LinkedIn url': 'http://www.linkedin.com/company/2867007'}
+{'company_name_zoominfo': 'Fine Waters', 'website': 'www.finewaters.com', 'headquarters': '1616 Sam Houston St, Harlingen, Texas, 78550, United States', 'SIC Code': '20,208', 'NAICS Code': '31,312', 'revenue': '<$5M', 'Number of Employees': '25', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'Violet Defense Group', 'website': 'www.violetdefensegroup.com', 'headquarters': '189 S Orange Ave Ste 1400, Orlando, Florida, 32801, United States', 'SIC Code': '36,364', 'NAICS Code': '33,335', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': '!not-found'}
+renewing ip
+429
+185.220.101.190
+renewing ip
+429
+185.220.101.190
+renewing ip
+429
+185.220.101.8
+renewing ip
+429
+185.220.101.8
+renewing ip
+429
+185.220.101.182
+renewing ip
+429
+185.220.101.182
+renewing ip
+429
+51.222.86.79
+renewing ip
+429
+192.42.116.213
+{'company_name_zoominfo': 'EnerTech', 'website': 'www.enertech.com', 'headquarters': '2872 N Ridge Rd Ste 114, Wichita, Kansas, 67205, United States', 'SIC Code': '87,874', 'NAICS Code': '54,541', 'revenue': '$16.3M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/enertech-wichita-ks'}
+{'company_name_zoominfo': 'Trashy Bags', 'website': 'www.trashybags.org', 'headquarters': '2 Roundhouse Rd, Accra, Greater Accra Region, 23321, Ghana', 'SIC Code': '26,267', 'NAICS Code': '32,326', 'revenue': '$7.7M', 'Number of Employees': '43', 'LinkedIn url': 'http://www.linkedin.com/company/trashy-bags-project'}
+{'company_name_zoominfo': 'Parallel Products', 'website': 'www.parallelproducts.com', 'headquarters': '401 Industry Rd Ste 100, Louisville, Kentucky, 40208, United States', 'SIC Code': '73,738', 'NAICS Code': '32,325', 'revenue': '$27.2M', 'Number of Employees': '107', 'LinkedIn url': 'http://www.linkedin.com/company/parallel-products'}
+{'company_name_zoominfo': 'Total Reclaim', 'website': 'www.totalreclaim.com', 'headquarters': '2200 6th Ave S, Seattle, Washington, 98134, United States', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '$30M', 'Number of Employees': '78', 'LinkedIn url': 'http://www.linkedin.com/company/total-reclaim'}
+{'company_name_zoominfo': 'Dec-Tam', 'website': 'www.dectam.com', 'headquarters': '50 Concord St, North Reading, Massachusetts, 01864, United States', 'SIC Code': '17,179', 'NAICS Code': '56,562', 'revenue': '$15.3M', 'Number of Employees': '58', 'LinkedIn url': 'http://www.linkedin.com/company/dec-tam-corporation'}
+{'company_name_zoominfo': 'Nazareth Pallet', 'website': 'www.nazpallet.com', 'headquarters': '800 Held Dr, Northampton, Pennsylvania, 18067, United States', 'SIC Code': '24,244', 'NAICS Code': '32,321', 'revenue': '$21.7M', 'Number of Employees': '99', 'LinkedIn url': 'http://www.linkedin.com/company/nazareth-pallet'}
+{'company_name_zoominfo': 'GreenCitizen', 'website': 'www.greencitizen.com', 'headquarters': '1831 Bayshore Hwy Ste 2, Burlingame, California, 94010, United States', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '$5.9M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/greencitizen'}
+{'company_name_zoominfo': 'Rayne Water Conditioning', 'website': 'www.raynewater.com', 'headquarters': '1231 River St, Santa Cruz, California, 95060, United States', 'SIC Code': '50,507', 'NAICS Code': '42,423', 'revenue': '$9.8M', 'Number of Employees': '87', 'LinkedIn url': 'http://www.linkedin.com/company/rayne-water'}
+{'company_name_zoominfo': 'HMSolution', 'website': 'www.hmwatersolution.com', 'headquarters': '11 S Angell St Ste 380, Providence, Rhode Island, 02906, United States', 'SIC Code': '35,358', 'NAICS Code': '33,333', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/hmsolution'}
+{'company_name_zoominfo': 'Sweetwater Home Services', 'website': 'www.sweetwaterhomeservices.com', 'headquarters': '10139 Metropolitan Dr, Austin, Texas, 78758, United States', 'SIC Code': '52,525', 'NAICS Code': '42,423', 'revenue': '$20.9M', 'Number of Employees': '72', 'LinkedIn url': 'http://www.linkedin.com/company/sweetwater-filtration'}
+{'company_name_zoominfo': 'Texas Pacific Land Trust', 'website': 'www.texaspacific.com', 'headquarters': '1700 Pacific Ave Ste 2900, Dallas, Texas, 75201, United States', 'SIC Code': '65,653', 'NAICS Code': '53,531', 'revenue': '$514.1M', 'Number of Employees': '92', 'LinkedIn url': 'http://www.linkedin.com/company/texas-pacific-land-trust-tpl-'}
+{'company_name_zoominfo': 'Edgewater Technical Associates', 'website': 'www.edgewatertech.net', 'headquarters': '104 Central Park Sq, Los Alamos, New Mexico, 87544, United States', 'SIC Code': '87,874', 'NAICS Code': '56,561', 'revenue': '$85.8M', 'Number of Employees': '364', 'LinkedIn url': 'http://www.linkedin.com/company/edgewater-technical-associates'}
+{'company_name_zoominfo': 'Cypress Environmental Partners', 'website': 'www.cypressenvironmental.biz', 'headquarters': '5727 S Lewis Ave Ste 300, Tulsa, Oklahoma, 74105, United States', 'SIC Code': '87,873', 'NAICS Code': '54,541', 'revenue': '$117.3M', 'Number of Employees': '403', 'LinkedIn url': 'http://www.linkedin.com/company/cypress-environmental-partners'}
+renewing ip
+429
+192.42.116.214
+{'company_name_zoominfo': 'Environmental Solutions Group', 'website': 'www.doveresg.com', 'headquarters': '2030 Hamilton Place Blvd Ste 200, Chattanooga, Tennessee, 37421, Unite...', 'SIC Code': '37,371', 'NAICS Code': '33,336', 'revenue': '$155.5M', 'Number of Employees': '18,484', 'LinkedIn url': 'http://www.linkedin.com/company/enviro-solutions-group'}
+{'company_name_zoominfo': 'AUC Group', 'website': 'www.aucgroup.net', 'headquarters': '1800 Augusta Dr Ste 108, Houston, Texas, 77057, United States', 'SIC Code': '35,358', 'NAICS Code': '33,333', 'revenue': '$6.2M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/auc-group-lp'}
+{'company_name_zoominfo': 'ARMADA Marine Robotics', 'website': 'www.armadamarinerobotics.com', 'headquarters': '82 Technology Park Dr E, Falmouth, Massachusetts, 02536, United States', 'SIC Code': '55,555', 'NAICS Code': '44,441', 'revenue': '$5.3M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/armada-marine-robotics'}
+{'company_name_zoominfo': 'Amlon Resources Group', 'website': 'www.amlonresources.com', 'headquarters': '10 E 40th St Ste 3802, New York, New York, 10016, United States', 'SIC Code': '33,334', 'NAICS Code': '33,331', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/amlon-resources-group-arg-llc'}
+{'company_name_zoominfo': 'Discount Drainage Supplies', 'website': 'www.discountdrainage.com', 'headquarters': '2600 S Arlington Rd, Akron, Ohio, 44319, United States', 'SIC Code': '50,507', 'NAICS Code': '42,423', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'Si Environmental', 'website': 'www.sienv.com', 'headquarters': '6420 Reading Rd, Rosenberg, Texas, 77471, United States', 'SIC Code': '89,899', 'NAICS Code': '54,541', 'revenue': '$23.9M', 'Number of Employees': '104', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'Beagles Plumbing', 'website': 'www.beaglesplumbing.com', 'headquarters': '28209 Honey Beagle Ln, Ponchatoula, Louisiana, 70454, United States', 'SIC Code': '17,171', 'NAICS Code': '23,238', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'Toter', 'website': 'www.toter.com', 'headquarters': '841 Meacham Rd, Statesville, North Carolina, 28677, United States', 'SIC Code': '30,308', 'NAICS Code': '32,326', 'revenue': '$11M', 'Number of Employees': '47', 'LinkedIn url': 'http://www.linkedin.com/company/toter-industries-llc'}
+{'company_name_zoominfo': 'Imperial Group Office', 'website': 'www.imperialgp.com', 'headquarters': '1700 W Fulton St, Chicago, Illinois, 60612, United States', 'SIC Code': '33,333', 'NAICS Code': '33,331', 'revenue': '$19M', 'Number of Employees': '30', 'LinkedIn url': 'http://www.linkedin.com/company/imperial-zinc-corp-'}
+{'company_name_zoominfo': 'Hydros', 'website': 'www.hydroslife.com', 'headquarters': '239 8th St 11, San Francisco, California, 94103, United States', 'SIC Code': '20,208', 'NAICS Code': '31,312', 'revenue': '$5.6M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/hydros-bottle-llc'}
+{'company_name_zoominfo': 'World Water Works', 'website': 'www.worldwaterworks.com', 'headquarters': '4000 SW 113th St, Oklahoma City, Oklahoma, 73173, United States', 'SIC Code': '49,494', 'NAICS Code': '22,221', 'revenue': '$22.7M', 'Number of Employees': '90', 'LinkedIn url': 'http://www.linkedin.com/company/world-water-works-inc-'}
+{'company_name_zoominfo': 'NotAvailable', 'website': 'NotAvailable', 'headquarters': 'NotAvailable', 'SIC Code': 'NotAvailable', 'NAICS Code': 'NotAvailable', 'revenue': 'NotAvailable', 'Number of Employees': 'NotAvailable', 'LinkedIn url': 'NotAvailable'}
+renewing ip
+429
+45.139.122.241
+renewing ip
+429
+192.42.116.24
+renewing ip
+429
+192.42.116.24
+renewing ip
+429
+94.230.208.148
+renewing ip
+429
+94.230.208.148
+renewing ip
+429
+199.249.230.172
+renewing ip
+403
+199.249.230.172
+renewing ip
+403
+2.58.56.101
+renewing ip
+429
+2.58.56.101
+renewing ip
+429
+192.42.116.176
+{'company_name_zoominfo': 'RapidPure', 'website': 'www.rapidpure.net', 'headquarters': '737 Quentin Ave S, Lakeland, Minnesota, 55043, United States', 'SIC Code': '35,358', 'NAICS Code': '33,333', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/685381'}
+{'company_name_zoominfo': 'StormwateRx', 'website': 'www.stormwaterx.com', 'headquarters': '8912 NE Alderwood Rd, Portland, Oregon, 97220, United States', 'SIC Code': '34,344', 'NAICS Code': '33,332', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/stormwaterx'}
+{'company_name_zoominfo': 'Maverick Biosciences', 'website': 'www.maverickbio.com', 'headquarters': '46 Mountbatten Dr Unit 1, Dubbo, New South Wales, 2830, Australia', 'SIC Code': '28,283', 'NAICS Code': '32,325', 'revenue': '$14.5M', 'Number of Employees': '33', 'LinkedIn url': 'http://www.linkedin.com/company/maverick-biosciences'}
+{'company_name_zoominfo': 'AquaMost', 'website': 'www.aquamost.com', 'headquarters': '1810 Wright St, Madison, Wisconsin, 53704, United States', 'SIC Code': '35,358', 'NAICS Code': '33,333', 'revenue': '$5.8M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/aquamost'}
+{'company_name_zoominfo': 'LAKOS Separators and Filtration Systems', 'website': 'www.lakos.com', 'headquarters': '1365 N Clovis Ave, Fresno, California, 93727, United States', 'SIC Code': '50,507', 'NAICS Code': '42,423', 'revenue': '$19.8M', 'Number of Employees': '90', 'LinkedIn url': 'http://www.linkedin.com/company/lakos-separators-and-filtration-systems'}
+{'company_name_zoominfo': 'Zters', 'website': 'www.zters.com', 'headquarters': '13727 Office Park Dr, Houston, Texas, 77070, United States', 'SIC Code': '49,42', 'NAICS Code': '56,562', 'revenue': '$25M', 'Number of Employees': '62', 'LinkedIn url': 'http://www.linkedin.com/company/zters-waste-value'}
+{'company_name_zoominfo': 'RainSaucers', 'website': 'www.rainsaucers.com', 'headquarters': '725 Paradise Blvd, Hayward, California, 94541, United States', 'SIC Code': '54,543', 'NAICS Code': '45,454', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/1952550'}
+{'company_name_zoominfo': 'Avalon Holdings', 'website': 'www.avalonholdings.com', 'headquarters': '1 American Way, Warren, Ohio, 44484, United States', 'SIC Code': '67,671', 'NAICS Code': '55,551', 'revenue': '$69.6M', 'Number of Employees': '611', 'LinkedIn url': 'http://www.linkedin.com/company/avalon-holdings-corporation'}
+{'company_name_zoominfo': 'Genesis Water Technologies', 'website': 'www.genesiswatertech.com', 'headquarters': '555 Winderley Pl Ste 300, Maitland, Florida, 32751, United States', 'SIC Code': '35,358', 'NAICS Code': '33,333', 'revenue': '$12.7M', 'Number of Employees': '40', 'LinkedIn url': 'http://www.linkedin.com/company/genesis-water-technologies-inc-'}
+{'company_name_zoominfo': 'AquaShield', 'website': 'www.aquashieldinc.com', 'headquarters': '2733 Kanasita Dr Ste 111, Chattanooga, Tennessee, 37343, United States', 'SIC Code': '35,358', 'NAICS Code': '33,333', 'revenue': '$5.5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/aquashield-inc-'}
+{'company_name_zoominfo': '101 Inc', 'website': 'www.101-inc.com', 'headquarters': '4791 W 900th S, Pendleton, Indiana, 46064, United States', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/van-os-imports-b-v-'}
+{'company_name_zoominfo': 'ACT Enviro', 'website': 'www.actenviro.com', 'headquarters': '967 Mabury Rd, San Jose, California, 95133, United States', 'SIC Code': '42,421', 'NAICS Code': '56,562', 'revenue': '$82.9M', 'Number of Employees': '371', 'LinkedIn url': 'http://www.linkedin.com/company/actenviro'}
+{'company_name_zoominfo': 'American Disposal Services', 'website': 'www.americandisposal.com', 'headquarters': '10370 Central Park Dr, Manassas, Virginia, 20110, United States', 'SIC Code': '49,42', 'NAICS Code': '56,562', 'revenue': '$175.5M', 'Number of Employees': '551', 'LinkedIn url': 'http://www.linkedin.com/company/american-disposal-services'}
+renewing ip
+429
+162.247.73.192
+renewing ip
+429
+162.247.73.192
+renewing ip
+429
+23.129.64.134
+renewing ip
+429
+23.129.64.134
+renewing ip
+429
+199.249.230.164
+renewing ip
+403
+199.249.230.164
+renewing ip
+403
+199.249.230.164
+renewing ip
+403
+5.45.104.141
+renewing ip
+429
+5.45.104.141
+renewing ip
+429
+109.70.100.21
+renewing ip
+429
+109.70.100.21
+renewing ip
+429
+109.70.100.21
+renewing ip
+429
+195.176.3.20
+renewing ip
+429
+204.85.191.7
+renewing ip
+429
+204.85.191.7
+renewing ip
+429
+192.42.116.178
+{'company_name_zoominfo': 'BEM Systems', 'website': 'www.bemsys.com', 'headquarters': '100 Passaic Ave Ste 7, Chatham, New Jersey, 07928, United States', 'SIC Code': '87,874', 'NAICS Code': '56,561', 'revenue': '$21.2M', 'Number of Employees': '38', 'LinkedIn url': 'http://www.linkedin.com/company/bem-systems-inc.'}
+{'company_name_zoominfo': 'Metro Waste Systems', 'website': 'www.getmetrowaste.com', 'headquarters': '16230 N Hwy 16, Poteet, Texas, 78065, United States', 'SIC Code': '42,421', 'NAICS Code': '56,562', 'revenue': '$7.9M', 'Number of Employees': '28', 'LinkedIn url': 'http://www.linkedin.com/company/metro-waste-systems-llc'}
+{'company_name_zoominfo': 'Renovare Environmental', 'website': 'www.renovareenv.com', 'headquarters': '80 Red Schoolhouse Rd Ste 101, Chestnut Ridge, New York, 10977, United...', 'SIC Code': '73,738', 'NAICS Code': '51,518', 'revenue': '$12.3M', 'Number of Employees': '34', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'Harris County Flood Control District', 'website': 'www.hcfcd.org', 'headquarters': '9900 Northwest Fwy, Houston, Texas, 77092, United States', 'SIC Code': '95,951', 'NAICS Code': '23,238', 'revenue': '$33.8M', 'Number of Employees': '272', 'LinkedIn url': 'http://www.linkedin.com/company/harris-county-flood-control-district'}
+{'company_name_zoominfo': 'Secur', 'website': 'www.naclpt.com', 'headquarters': '409 Broad St Ste 250, Sewickley, Pennsylvania, 15143, United States', 'SIC Code': '42,421', 'NAICS Code': '56,562', 'revenue': '$9.1M', 'Number of Employees': '30', 'LinkedIn url': 'http://www.linkedin.com/company/securlpt'}
+{'company_name_zoominfo': 'ARC Disposal & Recycling', 'website': 'www.arcdisposal.com', 'headquarters': '7n540 Il Rte 25, Elgin, Illinois, 60120, United States', 'SIC Code': '49,495', 'NAICS Code': '22,221', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'Water Tectonics', 'website': 'www.watertectonics.com', 'headquarters': '6300 Merrill Creek Pkwy Ste C100, Everett, Washington, 98203, United S...', 'SIC Code': '35,358', 'NAICS Code': '33,333', 'revenue': '$13.6M', 'Number of Employees': '56', 'LinkedIn url': 'http://www.linkedin.com/company/watertectonics'}
+{'company_name_zoominfo': 'Antelope Water Management', 'website': 'www.antelopewater.com', 'headquarters': '35710 E Antelope Dr, Wellton, Arizona, 85356, United States', 'SIC Code': '49,494', 'NAICS Code': '22,221', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/antelope-water-management'}
+{'company_name_zoominfo': 'Phoenix Energy', 'website': 'www.phoenixenergy.net', 'headquarters': 'PO Box 29166, San Francisco, California, 94129, United States', 'SIC Code': '49,491', 'NAICS Code': '22,221', 'revenue': '$8.9M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/phoenix-biomass-energy'}
+site-not-indexed
+
+{'company_name_zoominfo': '!not-found', 'website': '!not-found', 'headquarters': '!not-found', 'SIC Code': '!not-found', 'NAICS Code': '!not-found', 'revenue': '!not-found', 'Number of Employees': '!not-found', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'Meridian Alliance Partners', 'website': 'www.meridianalliancepartners.com', 'headquarters': '28873 N 111th Pl, Scottsdale, Arizona, 85262, United States', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/meridian-alliance'}
+{'company_name_zoominfo': 'CalRecycle', 'website': 'calrecycle.ca.gov', 'headquarters': '801 K Street Ms 19-01, Sacramento, California, 95814, United States', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '$346.4M', 'Number of Employees': '643', 'LinkedIn url': 'http://www.linkedin.com/company/california-integrated-waste-management-board'}
+{'company_name_zoominfo': 'Aeration Industries International', 'website': 'www.aireo2.com', 'headquarters': '4100 Peavey Rd, Chaska, Minnesota, 55318, United States', 'SIC Code': '49,35', 'NAICS Code': '22,221', 'revenue': '$12.7M', 'Number of Employees': '29', 'LinkedIn url': 'http://www.linkedin.com/company/aeration-industries-international'}
+{'company_name_zoominfo': 'Seychelle Environmental Technologies', 'website': 'www.seychelle.com', 'headquarters': '22 Journey, Aliso Viejo, California, 92656, United States', 'SIC Code': '35,356', 'NAICS Code': '33,333', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/seychelle-environmental-technologies-inc-syev-'}
+{'company_name_zoominfo': 'Climate Adaptive Infrastructure', 'website': 'www.climateadaptiveinfra.com', 'headquarters': 'United States', 'SIC Code': '87,871', 'NAICS Code': '54,541', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': '!not-found'}
+renewing ip
+429
+109.70.100.74
+renewing ip
+429
+109.70.100.74
+renewing ip
+429
+192.42.116.217
+{'company_name_zoominfo': 'Loureiro', 'website': 'www.loureiro.com', 'headquarters': '100 Northwest Dr, Plainville, Connecticut, 06062, United States', 'SIC Code': '87,871', 'NAICS Code': '54,541', 'revenue': '$101.3M', 'Number of Employees': '166', 'LinkedIn url': 'http://www.linkedin.com/company/loureiro-engineering'}
+{'company_name_zoominfo': 'Carter VerPlanck', 'website': 'www.carterverplanck.com', 'headquarters': '4910 W Cypress St, Tampa, Florida, 33607, United States', 'SIC Code': '35,358', 'NAICS Code': '33,333', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/carter-verplanck'}
+{'company_name_zoominfo': 'Rastech', 'website': 'www.rastech.com', 'headquarters': '21 Curtis Ln, Bedford, New Hampshire, 03110, United States', 'SIC Code': '57,573', 'NAICS Code': '44,443', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/rastech-inc'}
+{'company_name_zoominfo': 'Greenville Water', 'website': 'www.greenvillewater.com', 'headquarters': '407 W Broad St, Greenville, South Carolina, 29601, United States', 'SIC Code': '49,494', 'NAICS Code': '22,221', 'revenue': '$25.7M', 'Number of Employees': '299', 'LinkedIn url': 'http://www.linkedin.com/company/greenville-water'}
+{'company_name_zoominfo': 'MOTE', 'website': 'www.motehydrogen.com', 'headquarters': '27475 Ynez Rd Ste 725, Temecula, California, 92591, United States', 'SIC Code': '17,179', 'NAICS Code': '56,562', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/motefilter'}
+{'company_name_zoominfo': 'Clean Water Environmental', 'website': 'www.cleanwaterenv.com', 'headquarters': '300 Cherokee Dr, Dayton, Ohio, 45417, United States', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '$18.6M', 'Number of Employees': '95', 'LinkedIn url': 'http://www.linkedin.com/company/cleanwaterenv'}
+{'company_name_zoominfo': 'American Oil Solutions', 'website': 'www.americanoilsolutions.com', 'headquarters': '330 Pine St, Bridgeport, Connecticut, 06605, United States', 'SIC Code': '51,517', 'NAICS Code': '42,424', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/american-oil-solutions'}
+{'company_name_zoominfo': 'T2M Global', 'website': 'www.t2mglobal.com', 'headquarters': '516 S Fairfax Ave, Los Angeles, California, 90036, United States', 'SIC Code': '87,873', 'NAICS Code': '54,541', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'Amcorr Products & Services', 'website': 'www.amcorrusa.com', 'headquarters': '10624 Sentinel St, San Antonio, Texas, 78217, United States', 'SIC Code': '30,308', 'NAICS Code': '32,326', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/amcorr-products-and-services'}
+{'company_name_zoominfo': 'Entsorga West Virginia', 'website': 'www.entsorgawv.com', 'headquarters': '870 Grapevine Rd, Martinsburg, West Virginia, 25405, United States', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/entsorga-italia-spa'}
+{'company_name_zoominfo': 'Biomass Controls', 'website': 'www.biomasscontrols.com', 'headquarters': 'PO Box 109, Putnam, Connecticut, 06260, United States', 'SIC Code': '87,874', 'NAICS Code': '54,541', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/biomass-controls'}
+{'company_name_zoominfo': 'The Water Council', 'website': 'www.thewatercouncil.com', 'headquarters': '247 W Freshwater Way Ste 500, Milwaukee, Wisconsin, 53204, United Stat...', 'SIC Code': '83,839', 'NAICS Code': '81,813', 'revenue': '$5.1M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/the-water-council'}
+{'company_name_zoominfo': 'NotAvailable', 'website': 'NotAvailable', 'headquarters': 'NotAvailable', 'SIC Code': 'NotAvailable', 'NAICS Code': 'NotAvailable', 'revenue': 'NotAvailable', 'Number of Employees': 'NotAvailable', 'LinkedIn url': 'NotAvailable'}
+{'company_name_zoominfo': 'Rapid City Area Schools', 'website': 'www.rcas.org', 'headquarters': '300 6th St Ste 300, Rapid City, South Dakota, 57701, United States', 'SIC Code': '82,821', 'NAICS Code': '92,921', 'revenue': '$174.6M', 'Number of Employees': '1,800', 'LinkedIn url': 'http://www.linkedin.com/company/3570696'}
+renewing ip
+429
+185.129.62.63
+renewing ip
+429
+109.70.100.69
+renewing ip
+429
+109.70.100.76
+renewing ip
+429
+109.70.100.76
+renewing ip
+429
+192.42.116.193
+{'company_name_zoominfo': 'Zero Technologies', 'website': 'www.zerowater.com', 'headquarters': '4510 Adams Cir Ste G, Bensalem, Pennsylvania, 19020, United States', 'SIC Code': '49,35', 'NAICS Code': '22,221', 'revenue': '$5.1M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/filter-flow-water-taps'}
+{'company_name_zoominfo': 'Eden Technologies', 'website': 'www.edentechltd.com', 'headquarters': 'South Sudan', 'SIC Code': '48,481', 'NAICS Code': '51,517', 'revenue': '$5.4M', 'Number of Employees': '<25', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'Montauk Renewables', 'website': 'www.montaukenergy.com', 'headquarters': '680 Andersen Dr Fl 5, Pittsburgh, Pennsylvania, 15220, United States', 'SIC Code': '49,493', 'NAICS Code': '22,221', 'revenue': '$148.8M', 'Number of Employees': '132', 'LinkedIn url': 'http://www.linkedin.com/company/gsf-energy-llc'}
+{'company_name_zoominfo': 'AquaFiber Technologies', 'website': 'www.aquafiber.com', 'headquarters': '1150 Louisiana Ave Ste 1, Winter Park, Florida, 32789, United States', 'SIC Code': '87,873', 'NAICS Code': '54,541', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/aquafiber-technologies-corporation'}
+{'company_name_zoominfo': 'Vadxx Energy', 'website': 'www.vadxx.com', 'headquarters': '1768 E 25th St, Cleveland, Ohio, 44114, United States', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '$14.3M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/vadxx-energy'}
+{'company_name_zoominfo': 'WENDT', 'website': 'www.wendtcorp.com', 'headquarters': '2555 Walden Ave, Buffalo, New York, 14225, United States', 'SIC Code': '35,50', 'NAICS Code': '33,333', 'revenue': '$86.8M', 'Number of Employees': '223', 'LinkedIn url': 'http://www.linkedin.com/company/wendt-group_2'}
+{'company_name_zoominfo': 'Fluid Technology Solutions', 'website': 'www.ftsh2o.com', 'headquarters': '2482 Ferry St SW, Albany, Oregon, 97322, United States', 'SIC Code': '35,358', 'NAICS Code': '33,333', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/fluid-technology-solutions'}
+{'company_name_zoominfo': 'Ocean Recovery', 'website': 'www.oceanrecovery.com', 'headquarters': '1601 W Balboa Blvd, Newport Beach, California, 92663, United States', 'SIC Code': '73,738', 'NAICS Code': '56,561', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/ocean-recovery'}
+site-not-indexed
+
+{'company_name_zoominfo': '!not-found', 'website': '!not-found', 'headquarters': '!not-found', 'SIC Code': '!not-found', 'NAICS Code': '!not-found', 'revenue': '!not-found', 'Number of Employees': '!not-found', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'ALAR Engineering', 'website': 'www.alarcorp.com', 'headquarters': '9651 196th St, Mokena, Illinois, 60448, United States', 'SIC Code': '38,382', 'NAICS Code': '42,424', 'revenue': '$7.9M', 'Number of Employees': '30', 'LinkedIn url': 'http://www.linkedin.com/company/alar-engineering-corp'}
+{'company_name_zoominfo': 'NexCycle Plastics', 'website': 'www.nexcycle.com', 'headquarters': '235 Wilkinson Rd, Brampton, Ontario, L6T 4M2, Canada', 'SIC Code': '79,799', 'NAICS Code': '71,713', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'K2 Pure Solutions', 'website': 'www.k2pure.com', 'headquarters': '950 Loveridge Rd, Pittsburg, California, 94565, United States', 'SIC Code': '35,358', 'NAICS Code': '33,333', 'revenue': '$67.2M', 'Number of Employees': '102', 'LinkedIn url': 'http://www.linkedin.com/company/k2-pure-solutions'}
+{'company_name_zoominfo': '!not-found', 'website': 'Sd Renewables', 'headquarters': '!not-found', 'SIC Code': '!not-found', 'NAICS Code': '!not-found', 'revenue': '!not-found', 'Number of Employees': '!not-found', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'Isidore Electronics Recycling', 'website': 'www.isidorerecycling.com', 'headquarters': '525 S Hewitt St, Los Angeles, California, 90013, United States', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/isidore-electronics-recycling'}
+renewing ip
+429
+185.195.71.3
+renewing ip
+429
+185.220.101.43
+renewing ip
+429
+185.220.101.43
+renewing ip
+429
+190.103.179.98
+renewing ip
+429
+190.103.179.98
+renewing ip
+429
+185.220.101.137
+renewing ip
+429
+185.220.101.137
+renewing ip
+429
+104.244.79.50
+renewing ip
+429
+104.244.79.50
+renewing ip
+429
+185.243.218.46
+renewing ip
+429
+2.58.56.212
+{'company_name_zoominfo': 'Langer Industrial Services', 'website': 'www.langerindustrial.com', 'headquarters': '417 9th Ave, Scottsbluff, Nebraska, 69361, United States', 'SIC Code': '50,509', 'NAICS Code': '42,423', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'Hydro International', 'website': 'www.hydro-int.com', 'headquarters': 'Shearwater House Clevedon Hall Estate Access Via Elton Rd, Clevedon, N...', 'SIC Code': '67,671', 'NAICS Code': '55,551', 'revenue': '$12.3M', 'Number of Employees': '89', 'LinkedIn url': 'http://www.linkedin.com/company/hydro-international-plc'}
+{'company_name_zoominfo': 'Reverse Ionizer', 'website': 'www.reverseionizer.com', 'headquarters': '360 Herndon Pkwy Ste 1400, Herndon, Virginia, 20170, United States', 'SIC Code': '87,873', 'NAICS Code': '54,541', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'The Henry P Thompson', 'website': 'www.hpthompson.com', 'headquarters': '101 Main St Ste 300, Milford, Ohio, 45150, United States', 'SIC Code': '35,358', 'NAICS Code': '33,333', 'revenue': '$9.3M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/the-henry-p-thompson-company'}
+{'company_name_zoominfo': '!not-found', 'website': '!not-found', 'headquarters': '!not-found', 'SIC Code': '!not-found', 'NAICS Code': '!not-found', 'revenue': '!not-found', 'Number of Employees': '!not-found', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'First Star Recycling', 'website': 'www.firststarrecycling.com', 'headquarters': '10330 I St Ste 100, Omaha, Nebraska, 68127, United States', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '$24.5M', 'Number of Employees': '92', 'LinkedIn url': 'http://www.linkedin.com/company/first-star-recycling'}
+{'company_name_zoominfo': 'Waste Commission of Scott County', 'website': 'www.wastecom.com', 'headquarters': '11555 110th Ave, Davenport, Iowa, 52804, United States', 'SIC Code': '95,951', 'NAICS Code': '92,924', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/waste-commission-of-scott-county'}
+{'company_name_zoominfo': 'Ingenium', 'website': 'www.pureingenium.com', 'headquarters': '2280 Micro Pl, Escondido, California, 92029, United States', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '$88.1M', 'Number of Employees': '341', 'LinkedIn url': 'http://www.linkedin.com/company/ingenium-corporation'}
+{'company_name_zoominfo': 'S3 Recycling Solutions', 'website': 'www.s3rs.com', 'headquarters': '901 Central Ave W, Springfield, Tennessee, 37172, United States', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/s3-asset-management'}
+{'company_name_zoominfo': 'Breakwater Energy Partners', 'website': 'www.breakwaterenergy.com', 'headquarters': '4558 Fm 2351 Rd, Friendswood, Texas, 77546, United States', 'SIC Code': '13,138', 'NAICS Code': '21,213', 'revenue': '$69.2M', 'Number of Employees': '310', 'LinkedIn url': 'http://www.linkedin.com/company/breakwater-energy-llc'}
+{'company_name_zoominfo': 'Peerless Mfg. Co.', 'website': 'www.peerlessmfg.com', 'headquarters': '884 Main St, Monroe, Connecticut, 06468, United States', 'SIC Code': '34,343', 'NAICS Code': '33,333', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/peerless-mfg.-co.'}
+{'company_name_zoominfo': 'NotAvailable', 'website': 'NotAvailable', 'headquarters': 'NotAvailable', 'SIC Code': 'NotAvailable', 'NAICS Code': 'NotAvailable', 'revenue': 'NotAvailable', 'Number of Employees': 'NotAvailable', 'LinkedIn url': 'NotAvailable'}
+{'company_name_zoominfo': 'Water FX', 'website': 'www.waterfx.net', 'headquarters': '740 N Valle Verde Dr, Henderson, Nevada, 89014, United States', 'SIC Code': '17,179', 'NAICS Code': '23,238', 'revenue': '$5.7M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/water-fx'}
+{'company_name_zoominfo': 'ReNew ELP', 'website': 'www.renewelp.co.uk', 'headquarters': '230 Wilton Ctr, Dormanstown Ward, Redcar and Cleveland, TS10 4RF, Unit...', 'SIC Code': '28,282', 'NAICS Code': '32,325', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/renew-elp'}
+{'company_name_zoominfo': 'Clowe & Cowan of El Paso, LLC', 'website': 'www.ccelp.com', 'headquarters': '11221 Rojas Dr, El Paso, Texas, 79935, United States', 'SIC Code': '17,178', 'NAICS Code': '23,237', 'revenue': '$6.3M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/clowe-&-cowan-of-el-paso-llc'}
+{'company_name_zoominfo': 'Tohl', 'website': 'www.tohl.org', 'headquarters': '2625 Meridian Dr, Dacula, Georgia, 30019, United States', 'SIC Code': '49,494', 'NAICS Code': '22,221', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/tohl'}
+{'company_name_zoominfo': 'Arrowhead Landfill', 'website': 'www.arrowheadenvironmentalpartners.com', 'headquarters': '622 Tayloe Rd, Uniontown, Alabama, 36786, United States', 'SIC Code': '49,495', 'NAICS Code': '22,221', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': '!not-found'}
+renewing ip
+429
+185.195.71.3
+renewing ip
+429
+185.220.101.6
+renewing ip
+429
+23.129.64.135
+renewing ip
+429
+23.129.64.135
+renewing ip
+429
+23.129.64.135
+renewing ip
+429
+185.195.71.244
+renewing ip
+429
+185.195.71.244
+renewing ip
+429
+205.185.115.33
+renewing ip
+429
+185.241.208.204
+renewing ip
+429
+185.241.208.204
+renewing ip
+429
+144.172.118.34
+{'company_name_zoominfo': 'Compaction Technologies', 'website': 'www.compactiontechnologies.com', 'headquarters': '1230 Eagan Industrial Rd Ste 130, Eagan, Minnesota, 55121, United Stat...', 'SIC Code': '39,399', 'NAICS Code': '33,333', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/compaction-technologies-inc-'}
+{'company_name_zoominfo': 'Aquaback Technologies', 'website': 'www.aquaback.com', 'headquarters': '836 North St Ste 100, Tewksbury, Massachusetts, 01876, United States', 'SIC Code': '35,358', 'NAICS Code': '33,333', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/aquaback-technologies'}
+{'company_name_zoominfo': 'Athlon Solutions', 'website': 'www.athlonsolutions.com', 'headquarters': '5500 N Sam Houston Pkwy W Ste 800, Houston, Texas, 77086, United State...', 'SIC Code': '28,289', 'NAICS Code': '32,325', 'revenue': '$71.3M', 'Number of Employees': '304', 'LinkedIn url': 'http://www.linkedin.com/company/athlon-solutions'}
+{'company_name_zoominfo': 'CULTEC', 'website': 'www.cultec.com', 'headquarters': '878 Federal Rd, Brookfield, Connecticut, 06804, United States', 'SIC Code': '30,308', 'NAICS Code': '32,326', 'revenue': '$8.8M', 'Number of Employees': '31', 'LinkedIn url': 'http://www.linkedin.com/company/cultec-inc'}
+{'company_name_zoominfo': 'Resilient Infrastructure Group', 'website': 'www.resilient-ig.com', 'headquarters': '333 SE 2nd Ave, Portland, Oregon, 97214, United States', 'SIC Code': '73,738', 'NAICS Code': '56,561', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/partners-group'}
+{'company_name_zoominfo': 'Idle Free Systems', 'website': 'www.idlefreetechnology.com', 'headquarters': 'United States', 'SIC Code': '50,501', 'NAICS Code': '42,423', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'Paragon Southwest Medical Waste', 'website': 'www.paragonmedwaste.com', 'headquarters': '2500 Summer St Ste 1210, Austin, Texas, 78748, United States', 'SIC Code': '49,495', 'NAICS Code': '56,562', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'NorthSouth GIS', 'website': 'www.nsgis.com', 'headquarters': '244 S San Pedro St Ste 202, Los Angeles, California, 90012, United Sta...', 'SIC Code': '73,737', 'NAICS Code': '54,541', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/northsouth-gis-llc'}
+{'company_name_zoominfo': 'Compass Water Solutions', 'website': 'www.compasswater.com', 'headquarters': '15542 Mosher Ave, Tustin, California, 92780, United States', 'SIC Code': '35,358', 'NAICS Code': '33,333', 'revenue': '$7.8M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/compass-water-solutions-inc-'}
+{'company_name_zoominfo': 'Lane Enterprises', 'website': 'www.lane-enterprises.com', 'headquarters': '3905 Hartzdale Dr Ste 514, Camp Hill, Pennsylvania, 17011, United Stat...', 'SIC Code': '33,34', 'NAICS Code': '33,332', 'revenue': '$66M', 'Number of Employees': '326', 'LinkedIn url': 'http://www.linkedin.com/company/lane-enterprise'}
+{'company_name_zoominfo': 'PERC Water', 'website': 'www.percwater.com', 'headquarters': '959 S Coast Dr Ste 315, Costa Mesa, California, 92626, United States', 'SIC Code': '49,494', 'NAICS Code': '22,221', 'revenue': '$8.5M', 'Number of Employees': '27', 'LinkedIn url': 'http://www.linkedin.com/company/perc-water-corporation'}
+{'company_name_zoominfo': 'Last Bottle Clothing', 'website': 'www.lastbottleclothing.com', 'headquarters': 'PO Box 607, Mableton, Georgia, 30126, United States', 'SIC Code': '51,513', 'NAICS Code': '42,424', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/last-bottle-clothing'}
+{'company_name_zoominfo': '!not-found', 'website': 'JumpScale', 'headquarters': '!not-found', 'SIC Code': '!not-found', 'NAICS Code': '!not-found', 'revenue': '!not-found', 'Number of Employees': '!not-found', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'Clean Scapes', 'website': 'www.cleanscapes.net', 'headquarters': '4800 W Howard Ln, Austin, Texas, 78728, United States', 'SIC Code': '65,653', 'NAICS Code': '56,561', 'revenue': '$52.3M', 'Number of Employees': '230', 'LinkedIn url': 'http://www.linkedin.com/company/clean-scapes-lp'}
+{'company_name_zoominfo': 'reRubber', 'website': 'www.rerubber.com', 'headquarters': '315 S Sultana Ave, Ontario, California, 91761, United States', 'SIC Code': '75,753', 'NAICS Code': '32,326', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/rerubber-llc'}
+renewing ip
+429
+185.220.101.191
+renewing ip
+429
+185.220.101.191
+renewing ip
+429
+92.205.129.7
+renewing ip
+429
+92.205.129.7
+renewing ip
+429
+212.227.229.1
+renewing ip
+429
+192.42.116.199
+{'company_name_zoominfo': 'VLS Environmental Services', 'website': 'www.vlses.com', 'headquarters': '19500 Hwy 249 Ste 440, Houston, Texas, 77070, United States', 'SIC Code': '89,899', 'NAICS Code': '54,541', 'revenue': '$33.6M', 'Number of Employees': '410', 'LinkedIn url': 'http://www.linkedin.com/company/vlses'}
+{'company_name_zoominfo': '!not-found', 'website': 'Climate Change Mitigation Technologies', 'headquarters': '!not-found', 'SIC Code': '!not-found', 'NAICS Code': '!not-found', 'revenue': '!not-found', 'Number of Employees': '!not-found', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'Sawyer Products', 'website': 'www.sawyer.com', 'headquarters': 'PO Box 188, Safety Harbor, Florida, 34695, United States', 'SIC Code': '28,284', 'NAICS Code': '32,325', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': 'http://www.linkedin.com/company/sawyer-products'}
+{'company_name_zoominfo': 'Environmental Recovery', 'website': 'www.ercofusa.com', 'headquarters': '3300 Childs St, Baltimore, Maryland, 21226, United States', 'SIC Code': '49,89', 'NAICS Code': '22,221', 'revenue': '$23.9M', 'Number of Employees': '52', 'LinkedIn url': 'http://www.linkedin.com/company/603210'}
+{'company_name_zoominfo': 'Paragon Water Systems', 'website': 'www.paragonwater.com', 'headquarters': '13805 Monroes Business Park, Tampa, Florida, 33635, United States', 'SIC Code': '34,342', 'NAICS Code': '33,333', 'revenue': '$17.6M', 'Number of Employees': '250', 'LinkedIn url': 'http://www.linkedin.com/company/paragon-water-systems-inc.'}
+{'company_name_zoominfo': 'Anguil Environmental Systems', 'website': 'www.anguil.com', 'headquarters': '8855 N 55th St, Milwaukee, Wisconsin, 53223, United States', 'SIC Code': '35,356', 'NAICS Code': '33,333', 'revenue': '$29.4M', 'Number of Employees': '121', 'LinkedIn url': 'http://www.linkedin.com/company/anguil-environmental-systems-inc.'}
+{'company_name_zoominfo': 'Catalytec', 'website': 'www.catalytec.com', 'headquarters': '200 S Virginia St Fl 8, Reno, Nevada, 89501, United States', 'SIC Code': '28,286', 'NAICS Code': '32,325', 'revenue': '<$5M', 'Number of Employees': '<25', 'LinkedIn url': '!not-found'}
+{'company_name_zoominfo': 'BACE', 'website': 'www.bacecorp.com', 'headquarters': '322 W 32nd St, Charlotte, North Carolina, 28206, United States', 'SIC Code': '35,355', 'NAICS Code': '33,333', 'revenue': '$8.1M', 'Number of Employees': '30', 'LinkedIn url': 'http://www.linkedin.com/company/bace-llc'}
